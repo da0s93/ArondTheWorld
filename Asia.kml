@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Asia, Around the World </name>
+    <description/>
+    <Style id="icon-1502-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-FFD600-nodesc-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1502-FFD600-nodesc-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1502-FFD600-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-FFD600-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-FFD600-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1546-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1546-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1546-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1553-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1553-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1553-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1553-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1553-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1553-F9A825-nodesc-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1553-F9A825-nodesc-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1553-F9A825-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1553-F9A825-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1553-F9A825-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1634-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1634-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1634-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1634-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1634-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1706-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1706-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1706-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1706-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1706-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1706-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1706-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1706-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1706-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1706-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1743-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1743-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1743-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1743-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1743-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1743-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1743-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1743-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1743-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1743-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1804-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1804-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1804-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1804-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1804-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1804-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1804-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1804-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1804-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1804-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1804-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1804-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1804-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1804-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1804-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Russia</name>
+      <Placemark>
+        <name>Moscow </name>
+        <styleUrl>#icon-1546-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.6116943,55.7611226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blagoveshensk </name>
+        <styleUrl>#icon-1546-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.5445318,50.2533244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>China</name>
+      <Placemark>
+        <name>Heihe </name>
+        <styleUrl>#icon-1804-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.5334167,50.2483575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Wall of China</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/lWrIz0qHJsflAzAuyezPp2Mg5XAHTtziCVze-1wB4SDCzQbAH3yRqVHCAkmD67HXSJ3obE4Iv06qlztPqtQ3S9ICq72nj8SMn6GoTK4k8oscixea3UOcpYFxgdEybsTHD6ZnvA" height="200" width="auto" /><br><br>Великая китайская стена]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/lWrIz0qHJsflAzAuyezPp2Mg5XAHTtziCVze-1wB4SDCzQbAH3yRqVHCAkmD67HXSJ3obE4Iv06qlztPqtQ3S9ICq72nj8SMn6GoTK4k8oscixea3UOcpYFxgdEybsTHD6ZnvA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.5703749,40.4319077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Temple of Heaven</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/AJ85pdtUz_gUDEfG4ft0hY8_UWpdS_djVhwYYyCQE36PqA3zYqgvZd1I8vSq0-klMMoE98hKuLE64eGlHiTaQ-KL1WeVNftvL99TBTnaq5dEMd2yGKVC143o6LqWPrrj5wMt0A" height="200" width="auto" /><br><br>Храм Неба]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/AJ85pdtUz_gUDEfG4ft0hY8_UWpdS_djVhwYYyCQE36PqA3zYqgvZd1I8vSq0-klMMoE98hKuLE64eGlHiTaQ-KL1WeVNftvL99TBTnaq5dEMd2yGKVC143o6LqWPrrj5wMt0A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.41284,39.883704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beijing</name>
+        <styleUrl>#icon-1804-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.4073963,39.9041999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pingyao Ancient City</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/F42QW_KY8zZdANClw9s9j6I2wppVShTQ-PBYmjncwo7C2k8vE6klg1Sk22fdf8t5fjzwFyd_ch-c2Vcfnhbm8XvVx0BHaqUlB_fivNDQwfV4XXvarBc8PIXlUcMsS6bHa4552Q" height="200" width="auto" /><br><br>Древний город Пинъяо]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/F42QW_KY8zZdANClw9s9j6I2wppVShTQ-PBYmjncwo7C2k8vE6klg1Sk22fdf8t5fjzwFyd_ch-c2Vcfnhbm8XvVx0BHaqUlB_fivNDQwfV4XXvarBc8PIXlUcMsS6bHa4552Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.1767404,37.2052652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longmen Grottoes</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9vG9xXN7KVgW5Hljuo6mctJ19ilQ97KK288ZsXbUul-I2j6MloxxhsC8jICrKnj_2ERp6Zx7PrhoqzN1iiKQL9jV4Bef8Zdeth5RvN0CWjxENRg0TWViL7vvcjvSQojq5alyYro" height="200" width="auto" /><br><br>Лунмынь]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/9vG9xXN7KVgW5Hljuo6mctJ19ilQ97KK288ZsXbUul-I2j6MloxxhsC8jICrKnj_2ERp6Zx7PrhoqzN1iiKQL9jV4Bef8Zdeth5RvN0CWjxENRg0TWViL7vvcjvSQojq5alyYro</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.4678779,34.5594987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shaolin Temple</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/jAPlMF-8DzneCY0iO5n2kddKhF7NOXhOPDhYJgWGJ8DoWRX3tUzTc_8QOOZ2-P56Ils8mJ0kEjRwnaKgIaaBUs7F5qTMe9xqYkIBHJzNxd-fVPiPaTLa29GX0FKiMkkvHi_i3g" height="200" width="auto" /><br><br>Храм Шаолинь]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/jAPlMF-8DzneCY0iO5n2kddKhF7NOXhOPDhYJgWGJ8DoWRX3tUzTc_8QOOZ2-P56Ils8mJ0kEjRwnaKgIaaBUs7F5qTMe9xqYkIBHJzNxd-fVPiPaTLa29GX0FKiMkkvHi_i3g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.9352824,34.5085831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qingdao</name>
+        <styleUrl>#icon-1804-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            120.382609,36.067108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shanghai</name>
+        <styleUrl>#icon-1804-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.4737021,31.2303904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huangshan National Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/acn0ZAyMtYMi8j5hrOz5swCEwAd6sVVARHIzb6T3TmVS3Sq9VxGEKZmOMIvnHCl4dAgMZMWT0vLt_LEyYFj9yoHIdJFiq61_HQAqlE2YH6hPfNac6aC7MwLxjyg46FIgiEqDdQ" height="200" width="auto" /><br><br>Национальный парк Хуаншань]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/acn0ZAyMtYMi8j5hrOz5swCEwAd6sVVARHIzb6T3TmVS3Sq9VxGEKZmOMIvnHCl4dAgMZMWT0vLt_LEyYFj9yoHIdJFiq61_HQAqlE2YH6hPfNac6aC7MwLxjyg46FIgiEqDdQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.169798,30.113962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shenzhen</name>
+        <description>Граница Shenzhen (China) - Hong Kong (China)</description>
+        <styleUrl>#icon-1804-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            114.0628431,22.5293019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hong Kong</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/zTK8gR3o1qbobfcjj_dPx9ArqQm2db4nGJ5uBMyNhR__F0VmTeOZMd3DiyHJyCp7WXW7YpNrs6ilabve_D7tsDX2PQ17TW_QL5MCFCWcTYPScxR7lgIw2Cp4BscquY7VErwg" height="200" width="auto" /><br><br>Граница Hong Kong (China) - Shenzhen (China)]]></description>
+        <styleUrl>#icon-1804-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/zTK8gR3o1qbobfcjj_dPx9ArqQm2db4nGJ5uBMyNhR__F0VmTeOZMd3DiyHJyCp7WXW7YpNrs6ilabve_D7tsDX2PQ17TW_QL5MCFCWcTYPScxR7lgIw2Cp4BscquY7VErwg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.0657284,22.5126144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tian Tan Buddha</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/EEu1lcr9Ty4R6oWnPLv7SCBu_6Qk_EJ0wXgm-NV9MMf2oxJ8trKYsis1rIb1uAv3chDQC717b9N0w0LHAgMQXM0je6oWcAbQLuLo7yhOotq4RmcqTiRipFSygqfFDnEugXS7" height="200" width="auto" /><br><br>Большой Будда]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/EEu1lcr9Ty4R6oWnPLv7SCBu_6Qk_EJ0wXgm-NV9MMf2oxJ8trKYsis1rIb1uAv3chDQC717b9N0w0LHAgMQXM0je6oWcAbQLuLo7yhOotq4RmcqTiRipFSygqfFDnEugXS7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.904984,22.2539847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dongxing</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/xraypna-e61e76AbPPb5wH_e4_0IU6m-3uMMz0NV7071ygX8GeNBgQUCvZADLU-CK8xv9mdAMrecp0G9pANwriOIbbIWVqW59n-cWUysmmH4Ihw_fu2il1KqZgtUZsWEC_PJKA" height="200" width="auto" /><br><br>Граница Dongxing (China) - Mong Cai (Vietnam)]]></description>
+        <styleUrl>#icon-1804-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/xraypna-e61e76AbPPb5wH_e4_0IU6m-3uMMz0NV7071ygX8GeNBgQUCvZADLU-CK8xv9mdAMrecp0G9pANwriOIbbIWVqW59n-cWUysmmH4Ihw_fu2il1KqZgtUZsWEC_PJKA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.9684142,21.5375323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leshan Giant Buddha</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/h1xt7QXFIWgS4OfvKUUWjCckmZxbJS9-u0iPa330Cc1hCM--tb-IzduPzQHiaR9Rv0YzuCpzJBAk-eB2L0hDW6x1FdKJM8prUbwqQIOKNrmjLeDNS1Wyn8SYAEGagB0QjDcW0d0" height="200" width="auto" /><br><br>Лэшань Гигантский Будда]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/h1xt7QXFIWgS4OfvKUUWjCckmZxbJS9-u0iPa330Cc1hCM--tb-IzduPzQHiaR9Rv0YzuCpzJBAk-eB2L0hDW6x1FdKJM8prUbwqQIOKNrmjLeDNS1Wyn8SYAEGagB0QjDcW0d0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.7715369,29.5441309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Emperor Qinshihuang's Mausoleum Site Museum]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/3Bwcdf29vMJHZgz9fqaipPtsMLzhX6o2w_XMTInNVjyCudR45iAEkifwulzYpOzxoHgj7gQCGwKgEBmqG1b_swojttuM1EG1oB8PFQFGsrbOVFQpAOwh4tdDN9-O00dG-iWDxg" height="200" width="auto" /><br><br>Терракотовая армия ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/3Bwcdf29vMJHZgz9fqaipPtsMLzhX6o2w_XMTInNVjyCudR45iAEkifwulzYpOzxoHgj7gQCGwKgEBmqG1b_swojttuM1EG1oB8PFQFGsrbOVFQpAOwh4tdDN9-O00dG-iWDxg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.2784918,34.3841153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jiuzhaigou</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/sbEPpBF9cetbl6JRsdEfMQKY9_zAugYQbZ9dO-8bcvWebMc33lLOsLsZjdJLEGgujoWYXB7_a08iJwqVfd8XgTbwhN9wH_hgNgAE5gVkvVika3b0_WHWgsBjGA8nwbeE69nR" height="200" width="auto" /><br><br>Национальный парк Цзючжайгоу]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/sbEPpBF9cetbl6JRsdEfMQKY9_zAugYQbZ9dO-8bcvWebMc33lLOsLsZjdJLEGgujoWYXB7_a08iJwqVfd8XgTbwhN9wH_hgNgAE5gVkvVika3b0_WHWgsBjGA8nwbeE69nR</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.243841,33.252056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Vietnam </name>
+      <Placemark>
+        <name>Móng Cái</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/ZN7vG_dJqlJdNjmWVz5s-wjptWOy7iuuh7rAXbnEpTdHlLF9oLUAAMZSDG3SsyCoq5tzQOWavAq6rALQpSIQvw9soDG9r-umYJBhpbXt3kJucnSNM2jAPAhXwguCZOP5y5mX" height="200" width="auto" /><br><br>Граница Mong Cai (Vietnam) - Dongxing (China) ]]></description>
+        <styleUrl>#icon-1502-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/ZN7vG_dJqlJdNjmWVz5s-wjptWOy7iuuh7rAXbnEpTdHlLF9oLUAAMZSDG3SsyCoq5tzQOWavAq6rALQpSIQvw9soDG9r-umYJBhpbXt3kJucnSNM2jAPAhXwguCZOP5y5mX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.9704749,21.5349401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hạ Long Bay</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/XvMShWo3pqI087940O-J4bHMmq_JPmgkA5TJ-o4eOMMLJxEMgYP7Pw8rfV89r0fQXjgguKdoDbqXn3K1lq7lpQ3Sk95SEsezH8vXq6XWTekpMF-ozkwbRSOFnZOSfugbCQCF" height="200" width="auto" /><br><br>Бухта Халонг]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/XvMShWo3pqI087940O-J4bHMmq_JPmgkA5TJ-o4eOMMLJxEMgYP7Pw8rfV89r0fQXjgguKdoDbqXn3K1lq7lpQ3Sk95SEsezH8vXq6XWTekpMF-ozkwbRSOFnZOSfugbCQCF</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.1839024,20.9100512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phong Nha Cave</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/NQ7CVqEglDHaGTDuHUXijAHH2T3jckmFxi1HkAwX6lhCjg2quTPGpd08BS3yGDUqg_vDq_ppKn2Bsd0hQwBt8543qx2Ihig3fZPDbr_SKjxhZtVQKxqkQIi4CDVZhuzOzYIq" height="200" width="auto" /><br><br>Пещера Фонг Нха]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/NQ7CVqEglDHaGTDuHUXijAHH2T3jckmFxi1HkAwX6lhCjg2quTPGpd08BS3yGDUqg_vDq_ppKn2Bsd0hQwBt8543qx2Ihig3fZPDbr_SKjxhZtVQKxqkQIi4CDVZhuzOzYIq</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.2830579,17.5816952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tomb of Khai Dinh</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/kZlyICpGILAYPblLDtO0Y8fECQc5La6JgOok6IaKqzkfRU7GAMDeys59nrbIqlh6I7jD13ngK3N6W2paJlRf5Yz8r0YzprRGv4eP5P4Q1Uht3xZcp26T-F52DBLMJKcjrS7ZE8s" height="200" width="auto" /><br><br>Гробница Кхай Диня]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/kZlyICpGILAYPblLDtO0Y8fECQc5La6JgOok6IaKqzkfRU7GAMDeys59nrbIqlh6I7jD13ngK3N6W2paJlRf5Yz8r0YzprRGv4eP5P4Q1Uht3xZcp26T-F52DBLMJKcjrS7ZE8s</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.5903675,16.3990404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Marble Mountains</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/2DZAgwHOnON0b9rOl40IS-U7eDU5K90rY3C6AlX4cmNZ91-mr3QIi0GY4taBUXa5X27EhepSZUQvsOIiEVi7KRsTq-N8GQPH80a16ZxSStPRTodiTQKrkJcroy_kUe2HxJWL3A" height="200" width="auto" /><br><br>Мраморные горы]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/2DZAgwHOnON0b9rOl40IS-U7eDU5K90rY3C6AlX4cmNZ91-mr3QIi0GY4taBUXa5X27EhepSZUQvsOIiEVi7KRsTq-N8GQPH80a16ZxSStPRTodiTQKrkJcroy_kUe2HxJWL3A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.2628544,16.0039215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mỹ Sơn</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/xgT9na6I1pwhLjJwdnavdSZ5-UqFYm0dzApkJKqVfwqybjB4OyLNXuxiTxg9hQn-S9-RvO_pTslxkD3-n3kyPeTzk50TZ0dpGv469EHORTf5yOdvm0qcJlJweXilRgFiqoMBHA" height="200" width="auto" /><br><br>Мишон]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/xgT9na6I1pwhLjJwdnavdSZ5-UqFYm0dzApkJKqVfwqybjB4OyLNXuxiTxg9hQn-S9-RvO_pTslxkD3-n3kyPeTzk50TZ0dpGv469EHORTf5yOdvm0qcJlJweXilRgFiqoMBHA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.107871,15.7907204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biển Dốc Lết</name>
+        <description>Пляж Зоклет</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            109.2304489,12.550713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponagar Tower</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/zyPEh5DUlPDNXKelrIkGRPPVPCzotMb02bhTGg4Ac6N6zIfvFXEcqezwhxpY4OHo1vPirEqqFhmGS__mi-3jJvHQBan8A6gCU9lit_ocWL-3Hu5HADvdQPRPVAp5L9vOItTV" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/zyPEh5DUlPDNXKelrIkGRPPVPCzotMb02bhTGg4Ac6N6zIfvFXEcqezwhxpY4OHo1vPirEqqFhmGS__mi-3jJvHQBan8A6gCU9lit_ocWL-3Hu5HADvdQPRPVAp5L9vOItTV</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.1953957,12.2653854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crazy House</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/4zw9zue9IURTz0TJoGOh3NYHaU9UwwGhXAChyhctCc4ZrT3V_CTug6HEwy29dMS02ErhUBo_0T9sCbDYNckWFWgoPA7xGY6YkTvbJsQlEhvCHZc6aj2aFaQhnu-Pxa3qPn8dDQ" height="200" width="auto" /><br><br>Гостевой дом Ханг Нга]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/4zw9zue9IURTz0TJoGOh3NYHaU9UwwGhXAChyhctCc4ZrT3V_CTug6HEwy29dMS02ErhUBo_0T9sCbDYNckWFWgoPA7xGY6YkTvbJsQlEhvCHZc6aj2aFaQhnu-Pxa3qPn8dDQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.4307456,11.934676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cu Chi Tunnels</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/5Sxcd8aJgV8tW5lR1B_RmspnsZq1vMUZJfYwZM0AuZS2cLFRHpkLAP8cY1rS-54F3t6_Jty5moMcrxbhNo5-7HW_l2S-bcKs5BZ4pV0MHyG4r3dHRTQNYQvuOwxSHSY1oszKqg" height="200" width="auto" /><br><br>Тоннели Кути]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/5Sxcd8aJgV8tW5lR1B_RmspnsZq1vMUZJfYwZM0AuZS2cLFRHpkLAP8cY1rS-54F3t6_Jty5moMcrxbhNo5-7HW_l2S-bcKs5BZ4pV0MHyG4r3dHRTQNYQvuOwxSHSY1oszKqg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.4642756,11.1442864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ho Chi Minh City</name>
+        <styleUrl>#icon-1502-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6296638,10.8230989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mộc Bài</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/-6T3ufCaNzc_JPdrpZ5I-ySLlkMLYKLpJbafJvsXPYZWGP0CpBGnN88nLhPdWELUyX2q9MOXYGxWJ9ct5818V_N-YDge5pAi4xJap1vUKQArS5kFCBUjaLjpj1R0TrR6_m3RBA" height="200" width="auto" /><br><br>Граница Mộc Bài (Vietnam) - Krong Bavet (Kamboja)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/-6T3ufCaNzc_JPdrpZ5I-ySLlkMLYKLpJbafJvsXPYZWGP0CpBGnN88nLhPdWELUyX2q9MOXYGxWJ9ct5818V_N-YDge5pAi4xJap1vUKQArS5kFCBUjaLjpj1R0TrR6_m3RBA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.1830686,11.0810383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Kamboja </name>
+      <Placemark>
+        <name>Krong Bavet</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/_LlA8SH87n3B_twUIcCg--nepowymPmRZDB8ddUht_HaS1QWaW2kkD1WBhHRQcA7uwRSTbsQEJmtefYWGh5_0HHVoUn3LIjWeStagJL7wb2-wb_xIJi_2Etb9phGRQOkuw-s" height="200" width="auto" /><br><br>Граница Krong Bavet (Kamboja) - Mộc Bài (Vietnam)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/_LlA8SH87n3B_twUIcCg--nepowymPmRZDB8ddUht_HaS1QWaW2kkD1WBhHRQcA7uwRSTbsQEJmtefYWGh5_0HHVoUn3LIjWeStagJL7wb2-wb_xIJi_2Etb9phGRQOkuw-s</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.137296,11.0629004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phnom Penh</name>
+        <description>Пномпень</description>
+        <styleUrl>#icon-1706-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            104.8921668,11.5448729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Palace</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/jc-LMvFdbU3-pqbr4_rl-ah2oFOnRf15W75A5b_XFpJmk4gSKaS3IwdWK5BMcKctbxnU9dRnEAsczLHJmzA8V80I4S3lEkDXqa2yvNJusEH4ncvmQzSlfTLfX3nnzT69EPCKkw" height="200" width="auto" /><br><br>Королевский дворец]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/jc-LMvFdbU3-pqbr4_rl-ah2oFOnRf15W75A5b_XFpJmk4gSKaS3IwdWK5BMcKctbxnU9dRnEAsczLHJmzA8V80I4S3lEkDXqa2yvNJusEH4ncvmQzSlfTLfX3nnzT69EPCKkw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.9312521,11.563902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krong Preah Sihanouk</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Ppzm8QQ8CTh5yAhtC2p2iAo9asdctxRJV_wPjO7j3ASXsRvTEQjVMH4diveTJTmXU5-1Y_PjxzOX9-_lL5fzOw2-Oas4kLds7xR0563TG6QvgbaV4uauxRRnweXcsOSGRdYq" height="200" width="auto" /><br><br>Сиануквиль]]></description>
+        <styleUrl>#icon-1706-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/Ppzm8QQ8CTh5yAhtC2p2iAo9asdctxRJV_wPjO7j3ASXsRvTEQjVMH4diveTJTmXU5-1Y_PjxzOX9-_lL5fzOw2-Oas4kLds7xR0563TG6QvgbaV4uauxRRnweXcsOSGRdYq</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.5233963,10.6253016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tonlé Sap</name>
+        <description>Тонлесап</description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            104.0536735,12.9276385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krong Siem Reap</name>
+        <description>Сиемреап</description>
+        <styleUrl>#icon-1706-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            103.8448134,13.3670968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angkor Night Market Street</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Dcu-CfhhFGoKfAbeDkwQDpaK4hgUzJ-YeSvJ6ZHhJp9RtM7deiLMrYH-YgDpK9OnKb8I53IbiWDGqGr8SlrK43y7uUJT2hg6Et6_mvOlDEynUIC4A4AK5CziK85efvHfGWpT0A" height="200" width="auto" /><br><br>Ночной рынок ]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/Dcu-CfhhFGoKfAbeDkwQDpaK4hgUzJ-YeSvJ6ZHhJp9RtM7deiLMrYH-YgDpK9OnKb8I53IbiWDGqGr8SlrK43y7uUJT2hg6Et6_mvOlDEynUIC4A4AK5CziK85efvHfGWpT0A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.850816,13.3524185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angkor Wat</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/bk48vf67K7Kk_DVUW-1RCaZdfZ4CkHETYt3kpEjIwT7tPABuDW_WH_4R07GNRG6TlBngWcRVaIYS4Mdnpn8eWVVYLyuOrEKbCbl-8Um4-dvwtaHfG9xubZjabIaEOh7XgkPUeAo" height="200" width="auto" /><br><br>Ангкор-Ват]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/bk48vf67K7Kk_DVUW-1RCaZdfZ4CkHETYt3kpEjIwT7tPABuDW_WH_4R07GNRG6TlBngWcRVaIYS4Mdnpn8eWVVYLyuOrEKbCbl-8Um4-dvwtaHfG9xubZjabIaEOh7XgkPUeAo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.8669857,13.4124693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angkor Thom</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/6XJYOms0M_9wcRJvj9AgJnW12al3vgx-F8nG0l7ZySvUa9pIa-RsHq7Y6x1habk_CWIWheIbdmG3NV6zcJyl1dKIADvKRpqlFqjT6PRVfkY8IuDI9VT6krmo2gevNPQlWDXEyg" height="200" width="auto" /><br><br>Ангкор-Тхом]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/6XJYOms0M_9wcRJvj9AgJnW12al3vgx-F8nG0l7ZySvUa9pIa-RsHq7Y6x1habk_CWIWheIbdmG3NV6zcJyl1dKIADvKRpqlFqjT6PRVfkY8IuDI9VT6krmo2gevNPQlWDXEyg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.859038,13.4408305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preah Khan Temple</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/NCZ8ph5O9vLb4bhvAXaRKmfm03utScqy_-CeUYIgwu8PLZLfAC4nw2HRJzhwTShPOkS_7FUIR0KkzEiHFxB3Pl68b5U3UjCBIraqXrb1l31E_uAecZm2kEoO7eQbq1LK30jbX3k" height="200" width="auto" /><br><br>Преа-Кан]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/NCZ8ph5O9vLb4bhvAXaRKmfm03utScqy_-CeUYIgwu8PLZLfAC4nw2HRJzhwTShPOkS_7FUIR0KkzEiHFxB3Pl68b5U3UjCBIraqXrb1l31E_uAecZm2kEoO7eQbq1LK30jbX3k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.8718644,13.4619053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neak Pean</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/sZRT74JQpd3mdZUFDGuvHaB9KeITJTAeylGThA0mvhEpVfC4CnFBvtg1UKLbrFetC3xHqURGuQxf14Wbm77xvlPkWmTGImLUdN4V5Ptw5PU7pJq7QzID_HoNFsbpu95Y4ATSHQ" height="200" width="auto" /><br><br>Неак-Пеан]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/sZRT74JQpd3mdZUFDGuvHaB9KeITJTAeylGThA0mvhEpVfC4CnFBvtg1UKLbrFetC3xHqURGuQxf14Wbm77xvlPkWmTGImLUdN4V5Ptw5PU7pJq7QzID_HoNFsbpu95Y4ATSHQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.8947889,13.4632976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ta Prohm</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/7k8r2VvuHBOvtaQxy36TJWnoQ9tbSe-h8RPO2GVQDig1-lRcOO8jRNipfL965R2nMidp0dzqPHwsEenHj9nHMemVAiCwuq4hASYgWrI09L2KYXWEl5NdrqgWdeuiwx5l7lmh" height="200" width="auto" /><br><br>Та Прум]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/7k8r2VvuHBOvtaQxy36TJWnoQ9tbSe-h8RPO2GVQDig1-lRcOO8jRNipfL965R2nMidp0dzqPHwsEenHj9nHMemVAiCwuq4hASYgWrI09L2KYXWEl5NdrqgWdeuiwx5l7lmh</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.8893041,13.4347941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prae Roup Temple</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/aI6gGY36VR6XGPdbBWMkS09fCj8ETWVGIbOeJdevoJ0KJhvGgzzAFA8NLPLMOvQA_QzNN-X2s-44T8bPwejMfDJjVNHvBgG8sqO0bKc1FKek4NuLZL2TEIM1XFNeXFbzO1Ec" height="200" width="auto" /><br><br>Пре-Руп]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/aI6gGY36VR6XGPdbBWMkS09fCj8ETWVGIbOeJdevoJ0KJhvGgzzAFA8NLPLMOvQA_QzNN-X2s-44T8bPwejMfDJjVNHvBgG8sqO0bKc1FKek4NuLZL2TEIM1XFNeXFbzO1Ec</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.9205797,13.4349637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banteay Srei</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/Oz4uXrWVu8bkyoytRCRVn2QVMWr0OAy6HuTXkPMhFPqAeRF7qBvPoQyeksAaA0vCZWlf9x7zx_FPRs5DwaG6NtBaWNl9qvHTSmnYqRmu0duIxSbSfTV-6SxgKfbFuDmAI8HqoQ" height="200" width="auto" /><br><br>Бантеайсрей]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/Oz4uXrWVu8bkyoytRCRVn2QVMWr0OAy6HuTXkPMhFPqAeRF7qBvPoQyeksAaA0vCZWlf9x7zx_FPRs5DwaG6NtBaWNl9qvHTSmnYqRmu0duIxSbSfTV-6SxgKfbFuDmAI8HqoQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.9666115,13.6031005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kbal Spean</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Of4_OoVCiTUcHuFwTWYLNJHQsWQLNbUo4boF2_kodWDtBVdR_cDPdbaRq9pWZMHrZmHXww9dg_BiIncZnflnm5NtDvPgA7RrPMiFL2tp6Nmw__HRZiftTSOvzBZ5iO3-serUXg" height="200" width="auto" /><br><br>Кбаль Спеан]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/Of4_OoVCiTUcHuFwTWYLNJHQsWQLNbUo4boF2_kodWDtBVdR_cDPdbaRq9pWZMHrZmHXww9dg_BiIncZnflnm5NtDvPgA7RrPMiFL2tp6Nmw__HRZiftTSOvzBZ5iO3-serUXg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.0156257,13.6862485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phnom Kulen National Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Ck86mQdwl514Cp_k2dprfYPyUbkWTv6dyBMpZsmaPnvwGMY64Y3PFbLl_ZquBAa3gW7Nh4RYeWUWmRuOCXJiVlWY3p20CuZqPMO5pxD016mfgy5gHGdt8WwTimCeuZKClOjN" height="200" width="auto" /><br><br>Пном Кулен]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/Ck86mQdwl514Cp_k2dprfYPyUbkWTv6dyBMpZsmaPnvwGMY64Y3PFbLl_ZquBAa3gW7Nh4RYeWUWmRuOCXJiVlWY3p20CuZqPMO5pxD016mfgy5gHGdt8WwTimCeuZKClOjN</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.1466046,13.6436414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prasat Beng Mealea</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/raabV51XAPlDDT0sKAJzHMxJ8By_pt_himiLVFVJOOphPWT2ZjoWLZgXIAd369YTPM50MQUFESaJAL6hBVrMU_9wnoqJAA_IgScaHqQI7bP68JapqmhVg0hvoLxWvX2OzcZT-A" height="200" width="auto" /><br><br>Бэнгмеалеа]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/raabV51XAPlDDT0sKAJzHMxJ8By_pt_himiLVFVJOOphPWT2ZjoWLZgXIAd369YTPM50MQUFESaJAL6hBVrMU_9wnoqJAA_IgScaHqQI7bP68JapqmhVg0hvoLxWvX2OzcZT-A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.2287969,13.475565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paoy Paet</name>
+        <description>Граница Paoy Paet (Kamboja) - Aranyaprathet (Thailand)</description>
+        <styleUrl>#icon-1706-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            102.555401,13.6611562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tailand</name>
+      <Placemark>
+        <name>Aranyaprathet</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/ssXEtFCp4TWEpd8Z-2FfimJtygq-0czaT5AipeeZgqYqKJm_okjLeewdIctYZ80dRC1nz22swK0w-0SXVoP0CZ2GXuAsp7oQHsWEEQoLw2equN0cY4WOI4Xwx4ZodBQcvomLGg" height="200" width="auto" /><br><br>Граница Aranyaprathet (Thailand) - Paoy Paet (Kamboja)]]></description>
+        <styleUrl>#icon-1743-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/ssXEtFCp4TWEpd8Z-2FfimJtygq-0czaT5AipeeZgqYqKJm_okjLeewdIctYZ80dRC1nz22swK0w-0SXVoP0CZ2GXuAsp7oQHsWEEQoLw2equN0cY4WOI4Xwx4ZodBQcvomLGg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.5211986,13.6782356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phanom Rung Historical Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/niqwgRzMQtIqBxKxSzsKGJBGtbgLjINOZPXdLws5DL9IQ8KAdjUxHUxo8IRdlp3XROPqgpfWgZaaCG11wRt9GVDJtJ2yMdZsm8rS-rD64bUzeLqvVS8f98vYDV58DQ9-zaT-1w" height="200" width="auto" /><br><br>Пханом Рунг]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/niqwgRzMQtIqBxKxSzsKGJBGtbgLjINOZPXdLws5DL9IQ8KAdjUxHUxo8IRdlp3XROPqgpfWgZaaCG11wRt9GVDJtJ2yMdZsm8rS-rD64bUzeLqvVS8f98vYDV58DQ9-zaT-1w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.9423549,14.5321248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phimai Historical Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/emFllB7dRdrtqKnz26ov_IpD_XqVmZvWtk6krBrXE-a4CoJbBsgx_yFf3NCKXJjtpnHso2GoI6NJ8OS3a-F75gKo1owuUNY0cR7i8gPJf-AZQ7AV8fDKdNnx7a2XDm2oIiOtlQ" height="200" width="auto" /><br><br>Исторический парк Phimai]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/emFllB7dRdrtqKnz26ov_IpD_XqVmZvWtk6krBrXE-a4CoJbBsgx_yFf3NCKXJjtpnHso2GoI6NJ8OS3a-F75gKo1owuUNY0cR7i8gPJf-AZQ7AV8fDKdNnx7a2XDm2oIiOtlQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.4937702,15.2210769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pattaya City</name>
+        <description>Паттайя</description>
+        <styleUrl>#icon-1743-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            100.8770813,12.9276082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary of Truth</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/8lFD01PWslP_Ju8x629WXNelRrQlQT-MBJX9Uv8SVArYMZ7X3w6kgIU2OC_KMnqUMt3yZvNJTegk4bm3xTFQzo6C4H8fpTBCVlLGMLOKoFH1JBv00xEUl-jDzBO8ACGP3M_Vyg" height="200" width="auto" /><br><br>Храм Истины]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/8lFD01PWslP_Ju8x629WXNelRrQlQT-MBJX9Uv8SVArYMZ7X3w6kgIU2OC_KMnqUMt3yZvNJTegk4bm3xTFQzo6C4H8fpTBCVlLGMLOKoFH1JBv00xEUl-jDzBO8ACGP3M_Vyg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.8891036,12.9727431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walking Street</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/lSrYc3daECGYVuhW-OmuuRcvELU_rjEMHB7I4GI0RtdKDvJa4XCDI6DIPPnFE2H4uZmXgh2PyC_EpaFn2LTR3OMfyNXjW_vyDmie0jq7xv3ApkrEKIk3TsKIWFkas_p7RjdS" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/NZH2Z_IBOE8XImhMeXQWMHWV4SZF1CM4ykNfB5uKRLZR5vRiAcJBEiLoovn5g5-9dyZh2C3hGqhbXKgWWzMgRMT-mYfNsseBmG8bmahbAlZPe_9LQ9k-sxLN5J2xushB9ktPlQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/lSrYc3daECGYVuhW-OmuuRcvELU_rjEMHB7I4GI0RtdKDvJa4XCDI6DIPPnFE2H4uZmXgh2PyC_EpaFn2LTR3OMfyNXjW_vyDmie0jq7xv3ApkrEKIk3TsKIWFkas_p7RjdS https://lh3.googleusercontent.com/NZH2Z_IBOE8XImhMeXQWMHWV4SZF1CM4ykNfB5uKRLZR5vRiAcJBEiLoovn5g5-9dyZh2C3hGqhbXKgWWzMgRMT-mYfNsseBmG8bmahbAlZPe_9LQ9k-sxLN5J2xushB9ktPlQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.8727528,12.9261645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Embassy of the Union of Myanmar</name>
+        <description>Посольство Мьянмы </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            100.5249389,13.7205462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bangkok</name>
+        <description>Бангкок</description>
+        <styleUrl>#icon-1743-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            100.5017651,13.7563309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wat Arun Ratchawararam Ratchawaramahawihan</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/oJdJAcFVj4Rlt5tRF3fHxAfkaH-wLZQCgrt8GUvQnxoD5UohOh2ICa1_XqhPFgU4NmO73XPNJFfaFs742k56ufhNL0edWHEBMbomvIbRpEJMygYymUtU0CESURCuhpNZHRqG" height="200" width="auto" /><br><br>Ват Арун]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/oJdJAcFVj4Rlt5tRF3fHxAfkaH-wLZQCgrt8GUvQnxoD5UohOh2ICa1_XqhPFgU4NmO73XPNJFfaFs742k56ufhNL0edWHEBMbomvIbRpEJMygYymUtU0CESURCuhpNZHRqG</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.4889269,13.7436854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grand Palace</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/1qvJkiZuErz87_dPInE4N8hOkunYEQTQP2W_8NkUwlQ535qb4WksyUV_19xgdWtkABkh333J4Zz6uyECPK2leS2fPf-LsR0AC3MAE5t8Rr2uJNgLK7Q5AHBOiBF5jgh0xeWk" height="200" width="auto" /><br><br>Большой дворец]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/1qvJkiZuErz87_dPInE4N8hOkunYEQTQP2W_8NkUwlQ535qb4WksyUV_19xgdWtkABkh333J4Zz6uyECPK2leS2fPf-LsR0AC3MAE5t8Rr2uJNgLK7Q5AHBOiBF5jgh0xeWk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.4912882,13.7500301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ancient City (Mueang Boran)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/k1Bd8zfmi4R7_7zc5QugHB2TH6tgmwqGaR65E8uptovS50bRGtl1X-RS1IMhvo5_WF1M8ladjgk7BuPdUvDc3uDG_oKkJ-8REpYetcunxftTd8uNDny9MBsEHZi39Dqn4OWH0oU" height="200" width="auto" /><br><br>Древний Сиам]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/k1Bd8zfmi4R7_7zc5QugHB2TH6tgmwqGaR65E8uptovS50bRGtl1X-RS1IMhvo5_WF1M8ladjgk7BuPdUvDc3uDG_oKkJ-8REpYetcunxftTd8uNDny9MBsEHZi39Dqn4OWH0oU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.6229307,13.5392949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chatuchak Market</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/sHJLOQuXiMj688erEPosFZN4AixXZaaiN10eON6eJMlEf3rmww93x2YZYjuzDV1pVsF_vCAgIrXTFe0Nz1DMhlVOfPlIL8ovuQPjBJbe52uXvg2HxR_ZBfH5acA0laLLETc2Hw" height="200" width="auto" /><br><br>Рынок Чатучак]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/sHJLOQuXiMj688erEPosFZN4AixXZaaiN10eON6eJMlEf3rmww93x2YZYjuzDV1pVsF_vCAgIrXTFe0Nz1DMhlVOfPlIL8ovuQPjBJbe52uXvg2HxR_ZBfH5acA0laLLETc2Hw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.5508544,13.7999461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phra Nakhon Si Ayutthaya</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/N55Y0zlDs4cegihJV97c6y4mJvXBXBIDcB1NV64TMzBoDPjjK28OJgBkyFYXJmbWkB9n4AKuEeqT_rr0q8B_nSixSJFF9rE0S7VboUF3bN_fODa-siti0K2JnvgnVu1iwlY6" height="200" width="auto" /><br><br>Аютайя]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/N55Y0zlDs4cegihJV97c6y4mJvXBXBIDcB1NV64TMzBoDPjjK28OJgBkyFYXJmbWkB9n4AKuEeqT_rr0q8B_nSixSJFF9rE0S7VboUF3bN_fODa-siti0K2JnvgnVu1iwlY6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.5876634,14.3692325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erawan National Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/CWGlHAu4RX38-ckAjbXwhN2vin_A3_eUwq-Wr_-sfjR2SrVDsKS4tw8x7S4Suapxyx73Yp6RTkM3ja3Tmvea2Z0im5S-_fhRetryx0i4U3BWUUuFdWLCzT-X2A7cpxAkSf1_" height="200" width="auto" /><br><br>Национальный парк Эраван]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/CWGlHAu4RX38-ckAjbXwhN2vin_A3_eUwq-Wr_-sfjR2SrVDsKS4tw8x7S4Suapxyx73Yp6RTkM3ja3Tmvea2Z0im5S-_fhRetryx0i4U3BWUUuFdWLCzT-X2A7cpxAkSf1_</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            99.0746105000001,14.3377055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khao Sok National Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9P9oNuvfJoUJDhdhWqrO-HcRJ_7fb3Bss5-zpMnzVah14QErhP1sFI4MEu_Bgd3_oioWVcixtZfW227EHN4rG2_jn40ZYMUBr_-wD5yqIanBWYdB1qVaY6k_Pei1x5o18Yc-GQ" height="200" width="auto" /><br><br>Национальный парк Као Сок]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/9P9oNuvfJoUJDhdhWqrO-HcRJ_7fb3Bss5-zpMnzVah14QErhP1sFI4MEu_Bgd3_oioWVcixtZfW227EHN4rG2_jn40ZYMUBr_-wD5yqIanBWYdB1qVaY6k_Pei1x5o18Yc-GQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.5284041,8.9154549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phang-nga</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/JTihIVw8jOVpEKlQzt0ZLNdi251MUhCMFnvrkGDCDETLGRrDaqfTMFEajqlT10Zew5j0t7B8Pb4o8YHfprtBgxApxC69eRpaTv3RptW7j9BJDJohmNETb6gt0a4eVNtIKz412NY" height="200" width="auto" /><br><br>Пхангнга]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/JTihIVw8jOVpEKlQzt0ZLNdi251MUhCMFnvrkGDCDETLGRrDaqfTMFEajqlT10Zew5j0t7B8Pb4o8YHfprtBgxApxC69eRpaTv3RptW7j9BJDJohmNETb6gt0a4eVNtIKz412NY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.5255317,8.4501414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khao Phing Kan</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/M0P0nWks7qA6smE9NLUA9jUA_MHHyDuNb8hadpwhBP6nJB9mdMnq0gSb4sW248bHRzNDJcZgXrfD4pbHzjJKsYO27NcMD1Y0ED2yD9aGWOh9rGkA3d-fTLsMZATGURlL9rG2Zw" height="200" width="auto" /><br><br>Кхао Пинг Кан]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/M0P0nWks7qA6smE9NLUA9jUA_MHHyDuNb8hadpwhBP6nJB9mdMnq0gSb4sW248bHRzNDJcZgXrfD4pbHzjJKsYO27NcMD1Y0ED2yD9aGWOh9rGkA3d-fTLsMZATGURlL9rG2Zw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.5012262,8.2745231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phuket</name>
+        <description>Пхукет</description>
+        <styleUrl>#icon-1743-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            98.3922504,7.8804479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railay Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/5pZml1dmsNz181mOAm3ZxAZGbMrwbjC0SxGarBynKwR2c-yffYfCYGle-ig1qyzca5KxilQiI4qMhx5-WaKE2aMZTqQ6d56pypBkT9NVfulsWuasDOwAJYuoX_NlZU331bd1" height="200" width="auto" /><br><br>Рейли-Бич]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/5pZml1dmsNz181mOAm3ZxAZGbMrwbjC0SxGarBynKwR2c-yffYfCYGle-ig1qyzca5KxilQiI4qMhx5-WaKE2aMZTqQ6d56pypBkT9NVfulsWuasDOwAJYuoX_NlZU331bd1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.8373309,8.0120253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ko Phi Phi Don</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/V9IpSpeaJQwRwXuZVcpFuBWJ_SLtrvuvFcj1I8Fg8gP92lzKGEMsRGT5pvEMxJXNTZJyzDcCL-kqZvmvbUtGZCu7rf-mE13OyqbHCgYZsgZ5rB15VkOPQQLhjyCt1mFABTmoy1U" height="200" width="auto" /><br><br>Пхипхи]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/V9IpSpeaJQwRwXuZVcpFuBWJ_SLtrvuvFcj1I8Fg8gP92lzKGEMsRGT5pvEMxJXNTZJyzDcCL-kqZvmvbUtGZCu7rf-mE13OyqbHCgYZsgZ5rB15VkOPQQLhjyCt1mFABTmoy1U</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.77841,7.7461158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Similan Islands</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/hKNpUmvFhQoo1Do5X6TSMXDfZ_xpEJOWrQ9Sp9U7AvhF01V5b8wXSJaHZQ-rl0IqwX1OqIi11NrBR9QiU5Ossgbux_xE4JY5J_lJsl6EYRO9pFPIqOoPk_RmwJvl50Mzj9IPOac" height="200" width="auto" /><br><br>Симилан]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/hKNpUmvFhQoo1Do5X6TSMXDfZ_xpEJOWrQ9Sp9U7AvhF01V5b8wXSJaHZQ-rl0IqwX1OqIi11NrBR9QiU5Ossgbux_xE4JY5J_lJsl6EYRO9pFPIqOoPk_RmwJvl50Mzj9IPOac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            97.6466734000001,8.6578626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doi Inthanon National Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9pXwDDwWI0Z3nbtjV1e2OqMGhrxuk8-26yJXtTa8UmJOv3mljjKU6uFn6dNfAdZ1NDIO6P_ypnk5xRIxQXjsJ0nZHuvs-JmaZXoasW5AUgoLPB3xIpMmtB-b52LPJehgoLtwNQ" height="200" width="auto" /><br><br>Национальный парк Дой Интанон]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/9pXwDDwWI0Z3nbtjV1e2OqMGhrxuk8-26yJXtTa8UmJOv3mljjKU6uFn6dNfAdZ1NDIO6P_ypnk5xRIxQXjsJ0nZHuvs-JmaZXoasW5AUgoLPB3xIpMmtB-b52LPJehgoLtwNQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.4826275,18.586073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ranong</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/aGR8o8jvARmf1cq-ZX0xmJFJkZXkLXIicMpg1IhOZ5dB7hpg2oAhjEi2J0ZBqxD6WGMhojM29KI3bO8O3fL2dZaDVF8USGO3SPZCtsm7Y1x96JLGXo_tWoTkLD-zAXaKlDQLiQ" height="200" width="auto" /><br><br>Граница Ranong (Thailand) - Kawthoung (Myanmar)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/aGR8o8jvARmf1cq-ZX0xmJFJkZXkLXIicMpg1IhOZ5dB7hpg2oAhjEi2J0ZBqxD6WGMhojM29KI3bO8O3fL2dZaDVF8USGO3SPZCtsm7Y1x96JLGXo_tWoTkLD-zAXaKlDQLiQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.6003102,9.9784845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mae Sot</name>
+        <description>Граница Mae Sot (Thailand) - Myawaddy (Myanmar) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            98.5253981,16.6946485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Myanmar</name>
+      <Placemark>
+        <name>Kawthoung</name>
+        <description>Граница Kawthoung (Myanmar) - Ranong (Thailand) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            98.5515872,9.9800883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Myawaddy</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/gqWlh0bqtdpex8Ba_HWus8j6XF2lHh9nIrLiszY590pAyNEoz5yjvzsc5PQyBJaJfnPzZAvH7rdpCleTMufD_YIenfj527Ou6jAjUhR4Q51prbTz6yXCNV3KkfIPh_9oQgMFtyY" height="200" width="auto" /><br><br>Граница Myawaddy (Myanmar) - Mae Sot (Thailand) ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/gqWlh0bqtdpex8Ba_HWus8j6XF2lHh9nIrLiszY590pAyNEoz5yjvzsc5PQyBJaJfnPzZAvH7rdpCleTMufD_YIenfj527Ou6jAjUhR4Q51prbTz6yXCNV3KkfIPh_9oQgMFtyY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            98.5082647,16.688135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yangon</name>
+        <description>Янгон</description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            96.1951320000001,16.8660694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Embassy of India</name>
+        <description>Посольство Индии</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            96.1611776,16.7717125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaba Aye Pagoda</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/SRvQ7HlquPV9yW-bO34Bi_Ll0k-Et7KniyAThOMcf_FZtOixdd8h7z8Ucx5geS9-Sm_-p3v9jw8uIBc-pl576svEzjPOBqBjdZqnZ0J5v8Hmdh9cd_H3zWcYAsEGMq0oE6Hh-48" height="200" width="auto" /><br><br>Пагода Габа Айе]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/SRvQ7HlquPV9yW-bO34Bi_Ll0k-Et7KniyAThOMcf_FZtOixdd8h7z8Ucx5geS9-Sm_-p3v9jw8uIBc-pl576svEzjPOBqBjdZqnZ0J5v8Hmdh9cd_H3zWcYAsEGMq0oE6Hh-48</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.1545212999999,16.8568248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shwedagon Pagoda</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/NKlLGnZMYmb6JeKU5Bpk_kCrc-j-rYJUh7cLngaOCmOyJQmeqAREvlRgIs-mPFw_UvijbrWCPmvVoNEI2bjyaXGns5oQPKeyspw6Mr6DzmU26x0kuxlsTAAiJA4vY9RYcDEu-Q" height="200" width="auto" /><br><br>Пагода Шведагон]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/NKlLGnZMYmb6JeKU5Bpk_kCrc-j-rYJUh7cLngaOCmOyJQmeqAREvlRgIs-mPFw_UvijbrWCPmvVoNEI2bjyaXGns5oQPKeyspw6Mr6DzmU26x0kuxlsTAAiJA4vY9RYcDEu-Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.1495504,16.7982337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maha Bandula Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/B3FrSfTQxdB2-DnGWRbqDchF0r2bvlEfOKDRgnPUbn9r5ImdoisXgJevigwEna_cYA0pCdcpQ6kc4UHOCXGg7g8EYJEFzxj-qF2_Yok6jrQ52zLhQoYhjFKZJYPx02jlOwvi" height="200" width="auto" /><br><br>Парк Маха Бандула]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/B3FrSfTQxdB2-DnGWRbqDchF0r2bvlEfOKDRgnPUbn9r5ImdoisXgJevigwEna_cYA0pCdcpQ6kc4UHOCXGg7g8EYJEFzxj-qF2_Yok6jrQ52zLhQoYhjFKZJYPx02jlOwvi</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.1591247,16.7724377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ngapali Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/7zYTTpvP82RXzyxs6P87jp-SvKz-yylfTJj_b9dNDkSc5CrRRzTSZ7l-LqsFAmWgqYQ-PhiedmgZ7hS0YIYd-C706uQx3U0h61WeAlrRbiv3QqCYTAPxPMpmsF7Os_SO5YJQ" height="200" width="auto" /><br><br>Пляж Нгапали]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/7zYTTpvP82RXzyxs6P87jp-SvKz-yylfTJj_b9dNDkSc5CrRRzTSZ7l-LqsFAmWgqYQ-PhiedmgZ7hS0YIYd-C706uQx3U0h61WeAlrRbiv3QqCYTAPxPMpmsF7Os_SO5YJQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.3356424999999,18.3802687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inle Lake</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/JrhX2BuFynhyojQYWTeuorPYfW27hhMiIGnqNNLUIOjaF3hj1q9JXcSoHLqXKzS2vNKDczN1PK7F-yYnYUeu2GvwqZMNYO6xffdHphymVHnFsAAzdB7WI2GCDmLXNM-8R6KnCbw" height="200" width="auto" /><br><br>Инле Озеро ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/JrhX2BuFynhyojQYWTeuorPYfW27hhMiIGnqNNLUIOjaF3hj1q9JXcSoHLqXKzS2vNKDczN1PK7F-yYnYUeu2GvwqZMNYO6xffdHphymVHnFsAAzdB7WI2GCDmLXNM-8R6KnCbw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.9101806,20.5862914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pindaya Caves</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/xDKHAwWN964LZwKv9Ln44hCqNDcki1hXgAPfm5BkcW1yRVFtgoihTqnnG70iN39U-s0LkofrJgBIW6S2m0mYPpaMqmh_kxvC_HDlwTogW1LCrOybAo_JqBzMAIC2hIOkwgfnmHI" height="200" width="auto" /><br><br>Пещеры Пиндайя]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/xDKHAwWN964LZwKv9Ln44hCqNDcki1hXgAPfm5BkcW1yRVFtgoihTqnnG70iN39U-s0LkofrJgBIW6S2m0mYPpaMqmh_kxvC_HDlwTogW1LCrOybAo_JqBzMAIC2hIOkwgfnmHI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.650227,20.9254686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Popa</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/BOuydzyMCOa9hVtv9Vd1xabjH85FfY3nA0uB0FpvS2jLPKxqX3Btqt1B6Li6RNMw4hRt-jdnTzSyxGOghNHusY69TiWKK1VkWdpST5i_bo_L0W5W9cWhqSqHxTlo8BAfZvoAlLk" height="200" width="auto" /><br><br>Гора Попа (ну что тут скажешь)]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/BOuydzyMCOa9hVtv9Vd1xabjH85FfY3nA0uB0FpvS2jLPKxqX3Btqt1B6Li6RNMw4hRt-jdnTzSyxGOghNHusY69TiWKK1VkWdpST5i_bo_L0W5W9cWhqSqHxTlo8BAfZvoAlLk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            95.2533481,20.9207077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ananda Temple</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/JdnHprH1CRMwunX84jbfRjtidrXzOzrvPpxhWFmieoyzn6lK4Q4YlZUNmSISEJZvMCmoqljOMqrwIoShFX07ztMyjoz9f2Qs8MRegwyHljT0LFzi3QLjGtA5Jxe3R4WNhmtuyEE" height="200" width="auto" /><br><br>Храм Ананда ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/JdnHprH1CRMwunX84jbfRjtidrXzOzrvPpxhWFmieoyzn6lK4Q4YlZUNmSISEJZvMCmoqljOMqrwIoShFX07ztMyjoz9f2Qs8MRegwyHljT0LFzi3QLjGtA5Jxe3R4WNhmtuyEE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.8679463,21.1711061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dhammayan Gyi Temple</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/NXnEhhOpUtPKS6nVEUaewiTIZ6Kh9m_P8Cjf8PTmQ3hbDy7ZVMVYihMl4EMY4WWnVbcIOawdX_WWFNbt_jVxE5fUKFwhjOmFudllJcjv0TNA_CtSZ8cvmP4xS1Q-i64_7f9Alg" height="200" width="auto" /><br><br>Дамаянджи ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/NXnEhhOpUtPKS6nVEUaewiTIZ6Kh9m_P8Cjf8PTmQ3hbDy7ZVMVYihMl4EMY4WWnVbcIOawdX_WWFNbt_jVxE5fUKFwhjOmFudllJcjv0TNA_CtSZ8cvmP4xS1Q-i64_7f9Alg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.8731335,21.1620185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thatbyinnyu</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/e_xjRz5mrSHpvX32gYTHo8OqcWzhYf-8D408akbb4LlFkyLQY2ptjR5fcpbBC6HUWZr7bq72qTQmPorc2yudPZk27TcRQbINNjVxqRkLog3m6fWSUL307X_0Vm5TTadPq1mPyHM" height="200" width="auto" /><br><br>Храм Тотбяньню]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/e_xjRz5mrSHpvX32gYTHo8OqcWzhYf-8D408akbb4LlFkyLQY2ptjR5fcpbBC6HUWZr7bq72qTQmPorc2yudPZk27TcRQbINNjVxqRkLog3m6fWSUL307X_0Vm5TTadPq1mPyHM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.8629217,21.1688146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manuha Temple</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Dp-lsDMKjcNOqbEe-bH3k2wgaIslJcLj5lGlEJjJ7fNmqE6304To3JYnW2TCtjcb8XrzG2DoBnd9iNdv5xrOHcO1bDj_NdXA-pOpAa4ARsi7NpFKkfmGBV8Gw-aR80xW1VMPkA" height="200" width="auto" /><br><br>Храм Мануха]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Dp-lsDMKjcNOqbEe-bH3k2wgaIslJcLj5lGlEJjJ7fNmqE6304To3JYnW2TCtjcb8XrzG2DoBnd9iNdv5xrOHcO1bDj_NdXA-pOpAa4ARsi7NpFKkfmGBV8Gw-aR80xW1VMPkA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.8591971,21.1532466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shwezigon Pagoda</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/lXeFDfYjlUSEe9O3JcFXLnaoAtRCb6TDtbdvVMGMDFai01Xtldq5s9kRcmJy9-T2fyUOgpSO75354tOmNd6zFZgDr9Kt9RDQTlnq16B399zSZzC98DvbznozBEEcmPz9yt9m7r4" height="200" width="auto" /><br><br>Пагода Швезигон]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/lXeFDfYjlUSEe9O3JcFXLnaoAtRCb6TDtbdvVMGMDFai01Xtldq5s9kRcmJy9-T2fyUOgpSO75354tOmNd6zFZgDr9Kt9RDQTlnq16B399zSZzC98DvbznozBEEcmPz9yt9m7r4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.893806,21.195333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandalay</name>
+        <description>Мандалай </description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            96.0891032,21.9588282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandalay Palace</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/chloN7JBR4yRQknDwlh88Lj44TKg_PLaxVkIpoFOG6AcJ9K1OnTYAC976WM2VXuVcu2dVHnrNkTMoC0dIbIKK8ElKPr1vmXeOyQcmu1UyofarrhwykRG0kMANdODjDcju9vV" height="200" width="auto" /><br><br>Дворец в Мандалае]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/chloN7JBR4yRQknDwlh88Lj44TKg_PLaxVkIpoFOG6AcJ9K1OnTYAC976WM2VXuVcu2dVHnrNkTMoC0dIbIKK8ElKPr1vmXeOyQcmu1UyofarrhwykRG0kMANdODjDcju9vV</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.0965524000001,21.9928775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mingun Pahtodawgyi</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/PZvqMCZkd4OQoUwmf4kB9Tn7uVkD1ktd_f5f-bWSNg56k8-yOo7W4QQYUF0o3IY8HNHRtG2Y05-vfr57kRrfxMe-6H8FdNoYRAFvJzZArT8wcdZIA_nrGyXliznvWo2cg-7N-xA" height="200" width="auto" /><br><br>Мингун Пахтодауги]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/PZvqMCZkd4OQoUwmf4kB9Tn7uVkD1ktd_f5f-bWSNg56k8-yOo7W4QQYUF0o3IY8HNHRtG2Y05-vfr57kRrfxMe-6H8FdNoYRAFvJzZArT8wcdZIA_nrGyXliznvWo2cg-7N-xA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.0175607,22.0509317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mingun Bell</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/twbSyHd8Kjk4r8woYIBBnrqyec5Zm4ocVBs_EJnujbq4LsPD_J22-dIRx2sLc1AuXhl8zCuU662dOFy60fN-lTR3HHPG4l8Um2pU1qsSeNrHtANKDYPEy2bzq8EPU7F8Mcwb_A" height="200" width="auto" /><br><br>Мингунский колокол]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/twbSyHd8Kjk4r8woYIBBnrqyec5Zm4ocVBs_EJnujbq4LsPD_J22-dIRx2sLc1AuXhl8zCuU662dOFy60fN-lTR3HHPG4l8Um2pU1qsSeNrHtANKDYPEy2bzq8EPU7F8Mcwb_A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.0178261,22.0530588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pont U-Bein - Amarapura</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/3eD3m2mUp7CYsf96XEp1FF-KQjzinltoxYKK2SSgKCFds0-1zcfwinK2LJ_ipthK0gXThPTlgPQK4uPqwQVtlP_rfZdtQN7fdBhFfgk8d1ruHPauaGX5LXKoceGvvBCWjjNpqQ" height="200" width="auto" /><br><br>Мост У Бейн - самый длинный деревянный мост в мире]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/3eD3m2mUp7CYsf96XEp1FF-KQjzinltoxYKK2SSgKCFds0-1zcfwinK2LJ_ipthK0gXThPTlgPQK4uPqwQVtlP_rfZdtQN7fdBhFfgk8d1ruHPauaGX5LXKoceGvvBCWjjNpqQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.0578199,21.8915724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamu</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/mdBVZNzqhVBKryf5tWWxe5nzgqUm98SmURMFAVUvMhGYeaXwO-3LxuS1X1QDZeFw1JcrddK3HrOB_0DV3vpHCGX6S3ReKfOIbyCMuKQVKGJ_-jNVzCd-ESfBupZ6-rGVQhSdOw" height="200" width="auto" /><br><br>Граница Tamu (Myanmar) - Moreh (India)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/mdBVZNzqhVBKryf5tWWxe5nzgqUm98SmURMFAVUvMhGYeaXwO-3LxuS1X1QDZeFw1JcrddK3HrOB_0DV3vpHCGX6S3ReKfOIbyCMuKQVKGJ_-jNVzCd-ESfBupZ6-rGVQhSdOw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.3130343,24.2416429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>India</name>
+      <Placemark>
+        <name>Moreh</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/bVJFVg4G6PZ9mKFOcL5OxtXfHEDhlVBYPoc_pi2KGPv3d0I7LWLjSCZrHFNlpzsvu3ELAcIleuyXu7Hwf0VGj1lCo2ZLlOZ4VbSc86YDGr4ZS3tils7Yu8v4nY0ZUoo3PCXZ" height="200" width="auto" /><br><br>Граница Moreh (India) - Tamu (Myanmar)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/bVJFVg4G6PZ9mKFOcL5OxtXfHEDhlVBYPoc_pi2KGPv3d0I7LWLjSCZrHFNlpzsvu3ELAcIleuyXu7Hwf0VGj1lCo2ZLlOZ4VbSc86YDGr4ZS3tils7Yu8v4nY0ZUoo3PCXZ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.3057246,24.2475247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varanasi</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/M-GGQz7xOIP58O64udukoV55m1ZQn-O3ZNp_Wp1sYSI7L0enTzDxbgs7el-jNZECQRuJAGRTmWuAAqX_TslhzEHUBCJGX6c34KF3gYu-630n_B4Y31Do5aKKX_yd6aqvHgR9VYE" height="200" width="auto" /><br><br>Варнаси]]></description>
+        <styleUrl>#icon-1553-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/M-GGQz7xOIP58O64udukoV55m1ZQn-O3ZNp_Wp1sYSI7L0enTzDxbgs7el-jNZECQRuJAGRTmWuAAqX_TslhzEHUBCJGX6c34KF3gYu-630n_B4Y31Do5aKKX_yd6aqvHgR9VYE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.9739144,25.3176452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shri Kashi Vishwanath Temple</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/PSk_7QH33GiwSI2xN8kupQHhVjTb5v1-WDX5eQRQY226hgU4DJ_4FQZ21FP-j6jl-ZzZUvArBEvtYYY2OmzD1U8B_fhZoeJ8ZxiGYliZHdqavYehAax59abhiQO6T3pbIDPmJw0" height="200" width="auto" /><br><br>Храм Каши Вишванатх]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/PSk_7QH33GiwSI2xN8kupQHhVjTb5v1-WDX5eQRQY226hgU4DJ_4FQZ21FP-j6jl-ZzZUvArBEvtYYY2OmzD1U8B_fhZoeJ8ZxiGYliZHdqavYehAax59abhiQO6T3pbIDPmJw0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            83.0106783,25.3108532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agra</name>
+        <styleUrl>#icon-1553-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            78.0080745,27.1766701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raxaul</name>
+        <description>Граница Raxaul (India) - Birganj (Nepal)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            84.8533828,26.9847394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nanpara</name>
+        <description>Граница Nanpara (India) - Nepalgunj (Nepal)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            81.579625,27.9985031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agra Fort</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7brPMQEFK_aqqsuu-OPam7542Y3vAE1IvHpiSk2RbQAe-082Q-t42XgJzHW0Ge3aZWY2vyf1OHfK7IQDlQkj2jeUFBRhOB2azfg1VNz_Davw087p6ukMODucb42WkOyozeAWiec" height="200" width="auto" /><br><br>Агра Форт]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/7brPMQEFK_aqqsuu-OPam7542Y3vAE1IvHpiSk2RbQAe-082Q-t42XgJzHW0Ge3aZWY2vyf1OHfK7IQDlQkj2jeUFBRhOB2azfg1VNz_Davw087p6ukMODucb42WkOyozeAWiec</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.0238197,27.179202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taj Mahal</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/w-8Xr4-GRn5iK1DlodZ7u-xYJmZXVN3Nkk_7FZnVYjif6IoEiUDHqgaXBJKPxItucr4ZFeN4mejapulu-Uclo43mmhV1uhvrciZvQFb6cPpwGnNl2Co6b3ROH6CsDRgIa2rXdg8" height="200" width="auto" /><br><br>Тадж-Махал]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/w-8Xr4-GRn5iK1DlodZ7u-xYJmZXVN3Nkk_7FZnVYjif6IoEiUDHqgaXBJKPxItucr4ZFeN4mejapulu-Uclo43mmhV1uhvrciZvQFb6cPpwGnNl2Co6b3ROH6CsDRgIa2rXdg8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.0421552,27.1750151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Delhi</name>
+        <styleUrl>#icon-1553-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.2090212000001,28.6139391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Fort</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/-e8-A78tEnh2sWxNXGnb-UTjgoEvSa5mZq1uWZM23CkiFbPJJPvRUQrebN6hKRtzOrwLTvNt4qplmh1mBntbBePXN3hmbKEty5RplAOwy_66zfwWnM6tBUfgHtQIbbmC1jdmigI" height="200" width="auto" /><br><br>Красный Форт]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/-e8-A78tEnh2sWxNXGnb-UTjgoEvSa5mZq1uWZM23CkiFbPJJPvRUQrebN6hKRtzOrwLTvNt4qplmh1mBntbBePXN3hmbKEty5RplAOwy_66zfwWnM6tBUfgHtQIbbmC1jdmigI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.2410202999999,28.6561592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>India Gate</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/40XxBdiagMO2x2Wye76X9qokKEJRiCvdFkPdmnFC7KAJdWqAfKzv6qhYll6QVIGX7tvCt7aKz3SJt3Vb2_HvqwHBsUaUHbu6sVkPmW_I8CKaOmoZ2S5SXit6Qt947nrKLr__" height="200" width="auto" /><br><br>Ворота Индии]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/40XxBdiagMO2x2Wye76X9qokKEJRiCvdFkPdmnFC7KAJdWqAfKzv6qhYll6QVIGX7tvCt7aKz3SJt3Vb2_HvqwHBsUaUHbu6sVkPmW_I8CKaOmoZ2S5SXit6Qt947nrKLr__</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.2295097,28.612912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purana Qila</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/H4704OT-qQGzy1AwbwqzPK05ot_UVskmiRFEAO0KgbJL07-pH0difQxQj9GqOGP9NsrAJaNsgt8SYnFmgEEZ2sJojnMOTiUiroQkYLS8-UQD33jp4Od8d2aphC9OR5OuAQm4HA" height="200" width="auto" /><br><br>Перана Кила]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/H4704OT-qQGzy1AwbwqzPK05ot_UVskmiRFEAO0KgbJL07-pH0difQxQj9GqOGP9NsrAJaNsgt8SYnFmgEEZ2sJojnMOTiUiroQkYLS8-UQD33jp4Od8d2aphC9OR5OuAQm4HA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.2437371,28.6095744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Humayun's Tomb]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/cAutuoZtWCm2aIE19egtbvMcQiCgwc3Zx6hnuXsBAU0LZ2HpPiTdzNzjgr4ONgdrI3VSSl4gSD3tqsoq4VcFBds_sZ_Gd5_FW-XhSwQrrI2oNyLRoRNfFyCcYWxm0RdpL1gRuA" height="200" width="auto" /><br><br>Мавзолей Хумаюна]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/cAutuoZtWCm2aIE19egtbvMcQiCgwc3Zx6hnuXsBAU0LZ2HpPiTdzNzjgr4ONgdrI3VSSl4gSD3tqsoq4VcFBds_sZ_Gd5_FW-XhSwQrrI2oNyLRoRNfFyCcYWxm0RdpL1gRuA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.250798,28.5934534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qutub Minar</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/VeMuowSUfHTWah5LFqj_p8AHfq8ZUAMw4QPD1tCbNvVJgvG845Jf30aN9TSVjAB2ru5HLZu4xZdRLS2Grt8SKGqN0qVb_Ski9XqxHrgm2b402_YqQh5ZM-5-i2e3bOy8oc8fXT8" height="200" width="auto" /><br><br>Кутб-Минар]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/VeMuowSUfHTWah5LFqj_p8AHfq8ZUAMw4QPD1tCbNvVJgvG845Jf30aN9TSVjAB2ru5HLZu4xZdRLS2Grt8SKGqN0qVb_Ski9XqxHrgm2b402_YqQh5ZM-5-i2e3bOy8oc8fXT8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.1854559,28.5244281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hawa Mahal</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/KWKJ4TEasvDdXtEWDc1Rc-1pIsEu_YyZZNp8MEqKma5WI14DEdwRHPVjLbTyf8cNXYAlOTgxmkO0WiCfqs7s2GRrGW-IX8Ovv6dtkvvx2SOgZfiy-BL13_ifwgaR-AM-c12JHA0" height="200" width="auto" /><br><br>Хава-Махал]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/KWKJ4TEasvDdXtEWDc1Rc-1pIsEu_YyZZNp8MEqKma5WI14DEdwRHPVjLbTyf8cNXYAlOTgxmkO0WiCfqs7s2GRrGW-IX8Ovv6dtkvvx2SOgZfiy-BL13_ifwgaR-AM-c12JHA0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.8267438,26.9239363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mehrangarh Fort</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/NGCMbmpCkThmOWHcwfBKw6XJVMNaJziMRpA_LEqZsREYTxZO2OJcb0e3kj3sy12ttXsZJAl6TyVcLKtQQvmqmYg10gp5Ii5E352YbYEdnu9-A5XPpiqbErbpWLADNahSP5VgvQ" height="200" width="auto" /><br><br>Мерангар Форт]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/NGCMbmpCkThmOWHcwfBKw6XJVMNaJziMRpA_LEqZsREYTxZO2OJcb0e3kj3sy12ttXsZJAl6TyVcLKtQQvmqmYg10gp5Ii5E352YbYEdnu9-A5XPpiqbErbpWLADNahSP5VgvQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.0184738,26.2978078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chittorgarh Fort</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/0ot0pBxoO3grhkzN3jC6BE7F8VYKVBVr06y4tQSGW7LZ6EUoDtukD_rHeEhV4XRs2vzwte6oZypOqmE0yCPXOXJWQ5qEm3QoFmdRvz6UyONsjnyYtmMbk7IrBOo4dK8KoCY5EL0" height="200" width="auto" /><br><br>Форт Читторгарх]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/0ot0pBxoO3grhkzN3jC6BE7F8VYKVBVr06y4tQSGW7LZ6EUoDtukD_rHeEhV4XRs2vzwte6oZypOqmE0yCPXOXJWQ5qEm3QoFmdRvz6UyONsjnyYtmMbk7IrBOo4dK8KoCY5EL0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6446255999999,24.8868252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ajanta</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/zCl-fjeHqg5jrCMVTsqUEOOgu873xqpgCiHEjE822vaLhGqVmxyUsANUk1OI78hW7XSpVMU_hrXCapz2fzbzk6rtil9wu5G7zru67CYP3PzjHyRnUiRV5KSIeh8iTqhOQt6G" height="200" width="auto" /><br><br>Аджанта]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/zCl-fjeHqg5jrCMVTsqUEOOgu873xqpgCiHEjE822vaLhGqVmxyUsANUk1OI78hW7XSpVMU_hrXCapz2fzbzk6rtil9wu5G7zru67CYP3PzjHyRnUiRV5KSIeh8iTqhOQt6G</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.7502314,20.5329315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ellora Caves</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/wMCvd5pkF7QRYmyD5blmsJSHdHRFmwV_4aYrgtTnKOQFsNRSpanLBqbU-C0rDLyO95QGZ6yWkHUUbMOhtxmdlSV5nB0Pwd9ih0QPOZfGwgiYoqdT08iJitzghCWDf32gQRSwoA" height="200" width="auto" /><br><br>Эллора Кейвс]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/wMCvd5pkF7QRYmyD5blmsJSHdHRFmwV_4aYrgtTnKOQFsNRSpanLBqbU-C0rDLyO95QGZ6yWkHUUbMOhtxmdlSV5nB0Pwd9ih0QPOZfGwgiYoqdT08iJitzghCWDf32gQRSwoA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.1771289000001,20.0267792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aguada Fort</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/JtXVKGqTmDg66Hlx66sVB4vAbI0RT3Y5AWsHcEZG_01Ts8mZ9eqGJM1204AOFUyQsca5KZZuafW1DRREpiYpKeQLggaW1k-IwbrUf1s25lvKRTTV4vthfqFc7lUAZUPbBr0wBw" height="200" width="auto" /><br><br>Форт Агуада]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/JtXVKGqTmDg66Hlx66sVB4vAbI0RT3Y5AWsHcEZG_01Ts8mZ9eqGJM1204AOFUyQsca5KZZuafW1DRREpiYpKeQLggaW1k-IwbrUf1s25lvKRTTV4vthfqFc7lUAZUPbBr0wBw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.7736161,15.4923176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velha Goa</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/QTWZgrhOh_qrwwoQ8go7pPXIrrT9dgVPTPW50PancePrIP-taZETyHMIhqyM2uRWJuOjA7TFOXgsXEVhLYlZaBtl9DTRvg_yKZKMLMwtSwJhxDaSIpkFKy5meWjfvtQy9HzN7g" height="200" width="auto" /><br><br>Старый Гоа]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/QTWZgrhOh_qrwwoQ8go7pPXIrrT9dgVPTPW50PancePrIP-taZETyHMIhqyM2uRWJuOjA7TFOXgsXEVhLYlZaBtl9DTRvg_yKZKMLMwtSwJhxDaSIpkFKy5meWjfvtQy9HzN7g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.9154069,15.5027745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dudhsagar Falls</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/6qs58YaNZ-2rP4a6HKGT4QDtd4pmdRxfkYcLkuDELjX604w46x7HDFJKABOBStzRiHilekAXJpbNV6tUBKyGvfG3nQNys9G39cGNp8YTYZw_uPaybcVidw7tIMeeHWIcAHTciw" height="200" width="auto" /><br><br>Водопад Дудхсагар]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/6qs58YaNZ-2rP4a6HKGT4QDtd4pmdRxfkYcLkuDELjX604w46x7HDFJKABOBStzRiHilekAXJpbNV6tUBKyGvfG3nQNys9G39cGNp8YTYZw_uPaybcVidw7tIMeeHWIcAHTciw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.3143073,15.3144375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palolem Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/5qMPdBglqWjEIjotl2H3XXhk2QPPsGfAU8guj01koW8P04mcroa5riqDhsziiLfHZfaw-qODlVTPbtKAOH_XTIDSxdZbneejR79w-RrUJ_TscysKgGqQq1xNBX6THQsvziSKKw" height="200" width="auto" /><br><br>Палолем]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/5qMPdBglqWjEIjotl2H3XXhk2QPPsGfAU8guj01koW8P04mcroa5riqDhsziiLfHZfaw-qODlVTPbtKAOH_XTIDSxdZbneejR79w-RrUJ_TscysKgGqQq1xNBX6THQsvziSKKw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.0232186000001,15.0099648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murdeshwar</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/PzYqInfN80jabZqMxOKp9yJL32jpT2aRcmDRDdWzh0hq9lnhb0gCqn7GGwourSoEhNMVI0KL5nw1wF78QxBYz2ECUjg6l_eaudwpLoksvfK56FhVqj8kOaJMkkb3h4TrWF8n" height="200" width="auto" /><br><br>Мурдешвар]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/PzYqInfN80jabZqMxOKp9yJL32jpT2aRcmDRDdWzh0hq9lnhb0gCqn7GGwourSoEhNMVI0KL5nw1wF78QxBYz2ECUjg6l_eaudwpLoksvfK56FhVqj8kOaJMkkb3h4TrWF8n</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.4898633,14.093993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Nepal</name>
+      <Placemark>
+        <name>Birgunj</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/1-Ue3m0pDpsyvTY0ZYXZhU83KEpaM1Pgb2sjlIXBlyPpDcsATl-HOslpKFiQNxtcU0_k-wZS1ptv9PNjXdoFcHOHF-gWwLKymxUokPjbsETe2wbhYNfuyJcIyXIaIIIn2_NYOH4" height="200" width="auto" /><br><br>Граница Birganj (Nepal) -  Raxaul (India)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/1-Ue3m0pDpsyvTY0ZYXZhU83KEpaM1Pgb2sjlIXBlyPpDcsATl-HOslpKFiQNxtcU0_k-wZS1ptv9PNjXdoFcHOHF-gWwLKymxUokPjbsETe2wbhYNfuyJcIyXIaIIIn2_NYOH4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            84.8610373,26.9936702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kathmandu</name>
+        <description>Катманду</description>
+        <styleUrl>#icon-1634-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            85.3239605,27.7172453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thamel</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/VpXDiyJT8Iog5wiscAN2xltbmdhR7PusE6oXXGAjpitcqo1xnkX3HVs6krIKNnm8kLFCCogOjQC-ESO5e8EGPcnLRIsWoJ-pMACOPPVxZcXtCCIoDpcqBxwd5WSOwwAfLnGWzg" height="200" width="auto" /><br><br>Тамель]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/VpXDiyJT8Iog5wiscAN2xltbmdhR7PusE6oXXGAjpitcqo1xnkX3HVs6krIKNnm8kLFCCogOjQC-ESO5e8EGPcnLRIsWoJ-pMACOPPVxZcXtCCIoDpcqBxwd5WSOwwAfLnGWzg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.3123293,27.7153902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanuman Dhoka</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/lHJ0zS2uduej3uLWQ9Pe4hUDhPjFL8aEhVLW6yRDS7G_Vzan5oHm-GHmmL1DJ4SoTCBWlLFDpkfzH_wrze6YZp4J9Ckx-an3l0Q-IvkL8cWIMWfOaeQMqmfRdC24IDG9EfIWrxY" height="200" width="auto" /><br><br>Хануман-Дхока]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/lHJ0zS2uduej3uLWQ9Pe4hUDhPjFL8aEhVLW6yRDS7G_Vzan5oHm-GHmmL1DJ4SoTCBWlLFDpkfzH_wrze6YZp4J9Ckx-an3l0Q-IvkL8cWIMWfOaeQMqmfRdC24IDG9EfIWrxY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.3074822,27.7046205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pashupatinath Temple</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/45HYtHPkORIW9j3gkW8TC45pgx1IB448AmaNYdb5vZmMztmGMMmY1dBj-cYM_ck20xcHfPffaJeWC2HCb2UOJtn3qjGtFOTyjPRwy1vgbxXvVYGky30KY7E-oO8VDn9g912QUA" height="200" width="auto" /><br><br>Кладбище Пашупатинатх]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/45HYtHPkORIW9j3gkW8TC45pgx1IB448AmaNYdb5vZmMztmGMMmY1dBj-cYM_ck20xcHfPffaJeWC2HCb2UOJtn3qjGtFOTyjPRwy1vgbxXvVYGky30KY7E-oO8VDn9g912QUA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.3486888,27.7104641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Images of enlightenment</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7qKj1njvC8YAGFCRnKgF6sVRY_lfO2BsYs0B_G_aXOvGdJU05BPcqxmaO0xxcTr29yZSJUKbKnjMEIvGg-ONapuoZD5id9Jop1RBy4zTQYGk-cPtYnGWzGhOZk8BuUVibxZp_w8" height="200" width="auto" /><br><br>Боднатх]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/7qKj1njvC8YAGFCRnKgF6sVRY_lfO2BsYs0B_G_aXOvGdJU05BPcqxmaO0xxcTr29yZSJUKbKnjMEIvGg-ONapuoZD5id9Jop1RBy4zTQYGk-cPtYnGWzGhOZk8BuUVibxZp_w8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.3614973,27.7213281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bhaktapur Durbar Square</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yQD1CqSFe6s-B7Uaiki4lM-NIPlL0xwJRcRf8ndO89o8s2_SWGNqx6KdcjKui8Epm3i7xqGGzeoLM3zgd_3T3kBNYnUXNgY1RfVHDkWZ_slk74EHuwsoF6NLfBU81w7Ky-DgWvc" height="200" width="auto" /><br><br>Площадь Бхактапур Дурбар]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/yQD1CqSFe6s-B7Uaiki4lM-NIPlL0xwJRcRf8ndO89o8s2_SWGNqx6KdcjKui8Epm3i7xqGGzeoLM3zgd_3T3kBNYnUXNgY1RfVHDkWZ_slk74EHuwsoF6NLfBU81w7Ky-DgWvc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.4283390000001,27.672115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kathmandu Valley</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/vkCfHuyCDg3U-mdIN4dO9VvTNOvKlMfoIOc6QjKXEa0NhYk2M9B9Pc-UdcEa7lth2OJ8jt99iUkqKqwDMW8AROQdDOYRYTEQiNz2RAtrkJ3Z6LibUFLO8prpv2J6Q3J5wKPTHw" height="200" width="auto" /><br><br>Долина Катманду]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/vkCfHuyCDg3U-mdIN4dO9VvTNOvKlMfoIOc6QjKXEa0NhYk2M9B9Pc-UdcEa7lth2OJ8jt99iUkqKqwDMW8AROQdDOYRYTEQiNz2RAtrkJ3Z6LibUFLO8prpv2J6Q3J5wKPTHw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.35,27.6666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pokhara</name>
+        <description>Покхара</description>
+        <styleUrl>#icon-1634-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            83.9955878999999,28.237987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Annapurna Conservation Area</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/DYBYsRfO3Jt-Q3jmTr9nYe6EgVyQ0GoZWn1dYdKsvMpk3hXtdjtn6JxDlG588rMrv1TxJCjQ90BbIixxBjUyC6O2j0bDRE0a8RR-gZotVYSlldStmLrM2qHQFPRJcLp8lRHeLwc" height="200" width="auto" /><br><br>Национальный парк Аннапурны]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/DYBYsRfO3Jt-Q3jmTr9nYe6EgVyQ0GoZWn1dYdKsvMpk3hXtdjtn6JxDlG588rMrv1TxJCjQ90BbIixxBjUyC6O2j0bDRE0a8RR-gZotVYSlldStmLrM2qHQFPRJcLp8lRHeLwc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            84.0167423,28.8204837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nepalgunj</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/uueuJAzYn5sxZeiOZz6X_FgU5SpltmY0kYbAy5IXIfJ7MKF-7PUWHt6-CfzlaD8huTRdEh7XJWUHMEvkcbxk0bH6R_Fr5YD9aJHF_9ySz77-fbeExNO-OaxfBezTvxoWvS-kGFM" height="200" width="auto" /><br><br>Граница Nepalgunj (Nepal) - Nanpara (India)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/uueuJAzYn5sxZeiOZz6X_FgU5SpltmY0kYbAy5IXIfJ7MKF-7PUWHt6-CfzlaD8huTRdEh7XJWUHMEvkcbxk0bH6R_Fr5YD9aJHF_9ySz77-fbeExNO-OaxfBezTvxoWvS-kGFM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            81.614468,28.0547578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
