@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Africa, Around the World</name>
+    <description/>
+    <Style id="highlight">
+      <IconStyle>
+        <Icon>
+          <href>https://image.flaticon.com/icons/svg/33/33622.svg</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.5</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="normal">
+      <IconStyle>
+        <Icon>
+          <href>https://cdn2.iconfinder.com/data/icons/country-flag-2/128/Egypt_Flag-512.png</href>
+        </Icon>
+        <hotSpot x="24" xunits="pixels" y="24" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.5</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="exampleStyleMap">
+      <Pair>
+      <key>normal</key>
+      <styleUrl>#normal</styleUrl>
+      </Pair>
+      <Pair>
+      <key>highlight</key>
+      <styleUrl>#highlight</styleUrl>
+       </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Egypt </name>
+      <Placemark>
+        <name>Alexandria</name>
+        <styleUrl>#normal</styleUrl>
+        <Point>
+          <coordinates>
+            29.9187386999999,31.2000924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Citadel of Qaitbay</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/eL_DqjU6_UE9QXqBT5gqefkdAduTmcwBTTiVgDSI7-VsbDW8VMrELsLU-vD18gHOOoyuOYSR744YpVM85FfdnrXp2cxqqAGpWA5MDAzd2CuX2YlgUyqQPVrjSBoMf4B_DIFA5w" height="200" width="auto" /><br><br>Кайт-Бей]]></description>
+        <styleUrl>#normal</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/eL_DqjU6_UE9QXqBT5gqefkdAduTmcwBTTiVgDSI7-VsbDW8VMrELsLU-vD18gHOOoyuOYSR744YpVM85FfdnrXp2cxqqAGpWA5MDAzd2CuX2YlgUyqQPVrjSBoMf4B_DIFA5w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.8856383,31.214011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cairo </name>
+        <styleUrl>#normal</styleUrl>
+        <Point>
+          <coordinates>
+            31.2357116000001,30.0444196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Egyptian Museum</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/tUv5cYFgwypbXe5jPAymTb6lFmcy8rLgWP3HI8MtAzaTYKteZZqEji2prYBQ2r6hER9KXto9_uweQl78YdRDdDxfqP2e1aqCulwO7kv1gRFkrh5Nf3We0-42f_GdcUxf61FVrg" height="200" width="auto" /><br><br>Каирский египетский музей]]></description>
+        <styleUrl>#normal</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/tUv5cYFgwypbXe5jPAymTb6lFmcy8rLgWP3HI8MtAzaTYKteZZqEji2prYBQ2r6hER9KXto9_uweQl78YdRDdDxfqP2e1aqCulwO7kv1gRFkrh5Nf3We0-42f_GdcUxf61FVrg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.2336493,30.0478468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khan Al Khalili</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/ZFlCDVsKMVYVXha9uY07y5jayPr2ieHKBBXFy67CM_c9A8FGL1reEoypfyWG7f9gXIMuWB4IU_gOLfXjx-ad2vJaDi4sEINxCExKNXgKP4nBLljvXvtOfrtF_FnLeBQdaihaVw" height="200" width="auto" /><br><br>Хан аль-Халили]]></description>
+        <styleUrl>#normal</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/ZFlCDVsKMVYVXha9uY07y5jayPr2ieHKBBXFy67CM_c9A8FGL1reEoypfyWG7f9gXIMuWB4IU_gOLfXjx-ad2vJaDi4sEINxCExKNXgKP4nBLljvXvtOfrtF_FnLeBQdaihaVw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.2620196,30.0472391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosque of Muhammad Ali</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/_1CpW5NeQrz_aCuRzCMg2oSLl9010aM_sj_pUigVWcpPRusyneG2-1Bms7HKM1SAu33vIA7AqRXqbMXB6YfB6v-bT1DiXfzdfuzVauinq8gk1LlC91uMeZybzDyFTyDP1w9cfw" height="200" width="auto" /><br><br>Мечеть Мухаммеда Али]]></description>
+        <styleUrl>#highlight</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/_1CpW5NeQrz_aCuRzCMg2oSLl9010aM_sj_pUigVWcpPRusyneG2-1Bms7HKM1SAu33vIA7AqRXqbMXB6YfB6v-bT1DiXfzdfuzVauinq8gk1LlC91uMeZybzDyFTyDP1w9cfw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.2599106,30.0287015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salah El Din Al Ayouby Citadel</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/FdkaYTm-lkMjr18yLhI2dA-WlRPDyUzCjAF0ZnM135_NGEZcUu2rgAIYy6EPcK9viVauKxQIesegIAgltahkWeiOjq53AZxOKN35yW67T2UWi7GGOUe5u_ElCzWA5iwrXmON" height="200" width="auto" /><br><br>Каирская цитадель]]></description>
+        <styleUrl>#highlight</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/FdkaYTm-lkMjr18yLhI2dA-WlRPDyUzCjAF0ZnM135_NGEZcUu2rgAIYy6EPcK9viVauKxQIesegIAgltahkWeiOjq53AZxOKN35yW67T2UWi7GGOUe5u_ElCzWA5iwrXmON</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.2611055,30.0298604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Sphinx of Giza</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/ZS4NYqf6oGWUPCvXkb8WKy5MFc3GFcih3MXLEbfqz3imKgnaLu1trk4e4JBfaNShSVFHBEmMEUb_MagJbVS2_pGKfGsucKBpDkrwINESN4rcoMGYSeoVTLuRpyHQO_9FqQMT" height="200" width="auto" /><br><br>Большой сфинкс]]></description>
+        <styleUrl>#highlight</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/ZS4NYqf6oGWUPCvXkb8WKy5MFc3GFcih3MXLEbfqz3imKgnaLu1trk4e4JBfaNShSVFHBEmMEUb_MagJbVS2_pGKfGsucKBpDkrwINESN4rcoMGYSeoVTLuRpyHQO_9FqQMT</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.1375674,29.9752687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giza Necropolis</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/EAHmviHNHJ06zHI6v9Fysa-YqE-vupUuBfF8wOZAa8E_6xJzYCn9Ti90hDV3zrDdbK1V7-lawSXVpdbZKPwHdnWocKm-DvRI4GTjRypPneGQ4_WYxAp3gaCo2dCWnAWAWuULhA" height="200" width="auto" /><br><br>Пирамиды Гизы]]></description>
+        <styleUrl>#highlight</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/EAHmviHNHJ06zHI6v9Fysa-YqE-vupUuBfF8wOZAa8E_6xJzYCn9Ti90hDV3zrDdbK1V7-lawSXVpdbZKPwHdnWocKm-DvRI4GTjRypPneGQ4_WYxAp3gaCo2dCWnAWAWuULhA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.1324955,29.9772962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luxor</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.695547,25.7432466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karnak</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/wV7FVuuuFCPbrwA2M70tTYa5VuncJYoauSYc75_a1jful7jqgxPLpfNn_0A87PPVqvYHb4IgmiBMmp4FYMYQAAfRcZRlleIeUYmSd-0b9tsZzfp265hEVNsHYbZJg8WtAq4SmFU" height="200" width="auto" /><br><br>Карнакский храм]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/wV7FVuuuFCPbrwA2M70tTYa5VuncJYoauSYc75_a1jful7jqgxPLpfNn_0A87PPVqvYHb4IgmiBMmp4FYMYQAAfRcZRlleIeUYmSd-0b9tsZzfp265hEVNsHYbZJg8WtAq4SmFU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6572702999999,25.7188346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luxor Temple</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/c8GQ5JMXB334l2dR7Jv-FhSOk6AciX9maGy6-KIJyv1aE0DTla44L3Bqaixl-MRqWXlfHq_ZQSZQOuHUplfXOGz1R51suFzvBOTGsSFwHc8desN49igRzOKbDSTaaSgu3b-yUmU" height="200" width="auto" /><br><br>Луксорский храм]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/c8GQ5JMXB334l2dR7Jv-FhSOk6AciX9maGy6-KIJyv1aE0DTla44L3Bqaixl-MRqWXlfHq_ZQSZQOuHUplfXOGz1R51suFzvBOTGsSFwHc8desN49igRzOKbDSTaaSgu3b-yUmU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6390509,25.699502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colossi of Memnon</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/3YX1ur6bctPP-rGyDgyQi_GJpvcMoltH954HIT9qVsdT_Hkd6UM6WptAAK9lw9X9nwVTfXaidXJlKjtO24gKJPgiHZjq2tPvYtw8N6g-1EnUbZKDeTv588C8NyXlsDeppvp_SQ" height="200" width="auto" /><br><br>Колоссы Мемнона]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/3YX1ur6bctPP-rGyDgyQi_GJpvcMoltH954HIT9qVsdT_Hkd6UM6WptAAK9lw9X9nwVTfXaidXJlKjtO24gKJPgiHZjq2tPvYtw8N6g-1EnUbZKDeTv588C8NyXlsDeppvp_SQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6104556,25.7205975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deir el-Bahari</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/UjJDS0iqBP0wI14RyYAcApMbN762YnAicveyH5g7wmd_0SJslR1Kc3Ns4PD73nRDh1WV-NDr2xAbmHNnR1-8KAIdBb--fn05eCLKP8m4Sz1SbtlC4jmid7KnDXuESyg1qArp" height="200" width="auto" /><br><br>Дейр-эль-Бахри]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/UjJDS0iqBP0wI14RyYAcApMbN762YnAicveyH5g7wmd_0SJslR1Kc3Ns4PD73nRDh1WV-NDr2xAbmHNnR1-8KAIdBb--fn05eCLKP8m4Sz1SbtlC4jmid7KnDXuESyg1qArp</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6077331,25.7372598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramesseum</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/_eY-PhEk6MuHIZ5OCqooB1eblXL858C4opQOc0HQymSMPRm0d7zkIXedBNGt6U-GfJmoIPSePYkDShn6iwACXQIe_1OxjNttCjcVlBxWArWa-r84PwSteFqTCPkOHHbgxaqr" height="200" width="auto" /><br><br>Рамессеум]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/_eY-PhEk6MuHIZ5OCqooB1eblXL858C4opQOc0HQymSMPRm0d7zkIXedBNGt6U-GfJmoIPSePYkDShn6iwACXQIe_1OxjNttCjcVlBxWArWa-r84PwSteFqTCPkOHHbgxaqr</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.6104602,25.7279952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asuan</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.8998293,24.088938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulate General Of The Republic Of Sudan</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.8998293,24.088938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abu simbel</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/SRcVmWXq_5sJJuE1JIdijkJAnqdxuTT4JxtPmbF62vDBsRZu9ge5jf_WXDMY6ZjW9J3dkFX0mPRlQw0IctFOVG_b76dcAhGUb5KoFJPVTWOXEYpwr5T5nMtBYEqH_aiaIvoeZg" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/SRcVmWXq_5sJJuE1JIdijkJAnqdxuTT4JxtPmbF62vDBsRZu9ge5jf_WXDMY6ZjW9J3dkFX0mPRlQw0IctFOVG_b76dcAhGUb5KoFJPVTWOXEYpwr5T5nMtBYEqH_aiaIvoeZg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.625799,22.3372319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abu simbel</name>
+        <description>Граница Abu simbel (Egypt) - Wadi Halfa (Sudan)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            31.6179295,22.3416429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sudan</name>
+      <Placemark>
+        <name>Wadi Halfa</name>
+        <description>Граница Wadi Halfa (Sudan) - Abu simbel (Egypt)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            31.3713164000001,21.7991419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pyramids of Moroe</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9K-IXpuft11eskS6byhHXmu-SuVGoHDNjTaDaZutxzzyyes03z9M1nrl7BQL5hoWSyxok5ColgqwnhMeArFvhTnrStePWDOGFb8jqRPUhQRVm85ngh2OHi-t-ab6mi00DFyJ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/9K-IXpuft11eskS6byhHXmu-SuVGoHDNjTaDaZutxzzyyes03z9M1nrl7BQL5hoWSyxok5ColgqwnhMeArFvhTnrStePWDOGFb8jqRPUhQRVm85ngh2OHi-t-ab6mi00DFyJ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.7488091,16.9381826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Khartoum</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/wPJG8w60l7EDqJ9q2pLaJTi7DJOd-2xNW2MjbEILGz4Rpz5VX9x_9Z7spJEhOItP_SxMBU-u74zf1eRewa-Yuu6o4Odx7IZGP3m_yVT4t3fjd46L8N-qq1_ofWaMb-0MMtKeg3k" height="200" width="auto" /><br><br>Университет Хартум Сентрал Кампус]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/wPJG8w60l7EDqJ9q2pLaJTi7DJOd-2xNW2MjbEILGz4Rpz5VX9x_9Z7spJEhOItP_SxMBU-u74zf1eRewa-Yuu6o4Odx7IZGP3m_yVT4t3fjd46L8N-qq1_ofWaMb-0MMtKeg3k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.5417112,15.6093653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Embassy of the Federal Democratic Republic of Ethiopia</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5431076,15.5807721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gallabat</name>
+        <description>Граница Gallabat (Sudan) - Metema (Ethiopia)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            36.1497178,12.9595931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ethiopia</name>
+      <Placemark>
+        <name>Metema</name>
+        <description>Граница Metema (Ethiopia) - Gallabat (Sudan) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            36.1572559,12.954462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fasil Ghebbi</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/xwsamYSMeraOBSR5dswXL1sQzCWPG-wc_eIPkHaQKmjySY4RsWmnRBQ2_w9u4zsI20S5pio67FtmqyEvNphFVl3JrU_N7_iDDWjURDTdp2I6M59VphUaMPy6OHZT7VABvulYAw" height="200" width="auto" /><br><br>Фасил-Гебби]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/xwsamYSMeraOBSR5dswXL1sQzCWPG-wc_eIPkHaQKmjySY4RsWmnRBQ2_w9u4zsI20S5pio67FtmqyEvNphFVl3JrU_N7_iDDWjURDTdp2I6M59VphUaMPy6OHZT7VABvulYAw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4696345,12.6080067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bete Maryam</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/7icu5SBJSO9Jlqkj747EgHask_Lql7umUDw9T60UmksYnUFJe7Y4y6BpUqQ200XrImmRBNCUbkqIr8Thcb-W4uZUHMLx1JP2K-oAP9B7uhv-xPzCgkGMmW4OjfR0iF0rLfYnQA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/7icu5SBJSO9Jlqkj747EgHask_Lql7umUDw9T60UmksYnUFJe7Y4y6BpUqQ200XrImmRBNCUbkqIr8Thcb-W4uZUHMLx1JP2K-oAP9B7uhv-xPzCgkGMmW4OjfR0iF0rLfYnQA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0434061999999,12.0336012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bete Medhane Alem</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/IZvRd92hhIAEB7-28QjocIg_MnFN1nJN1-Whpq-KRtle5IWutqpC_ORoXhH7hTQfCMR4xGfHf8DzrninHZO-P-Oz0Ag_d9ZFz8z1u0IwoKAMPdvj40r2cDVjDi2q1VZ7xwRHyZA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/IZvRd92hhIAEB7-28QjocIg_MnFN1nJN1-Whpq-KRtle5IWutqpC_ORoXhH7hTQfCMR4xGfHf8DzrninHZO-P-Oz0Ag_d9ZFz8z1u0IwoKAMPdvj40r2cDVjDi2q1VZ7xwRHyZA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0438028,12.033651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bete Amanuel</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/UdlJtkFovTNkCxpSDP4zPHh4Bb52azs6tRlnAznR-W68rDT_4t1F2bqaKJ96lnuL1Rfxo3u2bQY5SBFzrRzIYc7_p6fpoKA4sy_E_iBpXycnthmXNXzZGiE-sQTjjUJ3chgE" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/UdlJtkFovTNkCxpSDP4zPHh4Bb52azs6tRlnAznR-W68rDT_4t1F2bqaKJ96lnuL1Rfxo3u2bQY5SBFzrRzIYc7_p6fpoKA4sy_E_iBpXycnthmXNXzZGiE-sQTjjUJ3chgE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0455979,12.0317341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue nile falls</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/0J49q5xtPyrPY1B8d6rpCG2nZJHwvAuPXPGQjhTIvRrYsK6HN4ABN1f0Fo0yeu_DWa7yHXCklTNHuyrWHN7EaAdW05p18QMtpSjJ_C3PyMj6j1HH70HKr1grDYHLWENcP-UV" height="200" width="auto" /><br><br>Водопад Тис-Ысат ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/0J49q5xtPyrPY1B8d6rpCG2nZJHwvAuPXPGQjhTIvRrYsK6HN4ABN1f0Fo0yeu_DWa7yHXCklTNHuyrWHN7EaAdW05p18QMtpSjJ_C3PyMj6j1HH70HKr1grDYHLWENcP-UV</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.5880399,11.4905157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Addis ababa</name>
+        <description>Аддис-Абеба</description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            38.7577605,8.9806034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Embassy of Kenya</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.783601,9.033358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Trinity Cathedral</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/9h95qaoP-ai8JaIhL8EwuOlUPfB1xbcSPoVrcPO9S2j-D-YYrRKgO2A-KybWT3-eGvx6nnAdr_xRl3aFbQXW4ChcdJFOvLjjdORvglo6aty7HvbbiRMd-bLdCuBqkJMaPfRXgA" height="200" width="auto" /><br><br>Собор Святой Троицы]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/9h95qaoP-ai8JaIhL8EwuOlUPfB1xbcSPoVrcPO9S2j-D-YYrRKgO2A-KybWT3-eGvx6nnAdr_xRl3aFbQXW4ChcdJFOvLjjdORvglo6aty7HvbbiRMd-bLdCuBqkJMaPfRXgA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7664298,9.0308544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tikur Anbessa General Specialized Hospital</name>
+        <description>Больница Блэк Лайон (прививка от желтой лихорадки)</description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            38.7495809,9.0201489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moyale</name>
+        <description>Граница Moyale (Ethiopia) - Moyale (Kenya) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            39.0530553,3.5386996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Kenya</name>
+      <Placemark>
+        <name>Moyale </name>
+        <description>Граница Moyale (Kenya) - Moyale (Ethiopia) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            39.0529478,3.5253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thomson Falls</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/1ZoSaPN8K0DSvC3dfjJNE5qqaV_wwjnfi1Al4Toe_fiBzsyPuVzXfG70dx94aDhBs7Nf9-Qair5PUYaSN4OKux747dF8ZmpQl1-icHfFQKlPUwzoT7bcI7x67jokva00NehMqQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/1ZoSaPN8K0DSvC3dfjJNE5qqaV_wwjnfi1Al4Toe_fiBzsyPuVzXfG70dx94aDhBs7Nf9-Qair5PUYaSN4OKux747dF8ZmpQl1-icHfFQKlPUwzoT7bcI7x67jokva00NehMqQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.370368,0.0441384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nairobi</name>
+        <description>Найроби</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            36.8219462,-1.2920659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamia Mosque Nairobi</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/breGXzmqH7OjynxchmcR_WjmzpT-tmizy7np7JtIDV3H-JGVE9bjHZVHhbcpLUzMEul6Po3pox9RabFaVyA0wZMoBwslLnYWoiFd_jFnX9jEl_RNErIee-3DbCuH5qZGa7Lwmg" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/breGXzmqH7OjynxchmcR_WjmzpT-tmizy7np7JtIDV3H-JGVE9bjHZVHhbcpLUzMEul6Po3pox9RabFaVyA0wZMoBwslLnYWoiFd_jFnX9jEl_RNErIee-3DbCuH5qZGa7Lwmg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8209057,-1.2835041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uhuru Gardens</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/6cBSk-9QhU1u7EqA5broL6DG_gmqt5hyRv_0_RrNWX_6H0oiXSez18m1wQUC3vuC3oRRaEbB0rq19seyGt9JybUNzFiqfrfRXSprlfzYcWYT9kBNvkscGI_8oPkYVlKdc6EBGg" height="200" width="auto" /><br><br>Парк Ухуру]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/6cBSk-9QhU1u7EqA5broL6DG_gmqt5hyRv_0_RrNWX_6H0oiXSez18m1wQUC3vuC3oRRaEbB0rq19seyGt9JybUNzFiqfrfRXSprlfzYcWYT9kBNvkscGI_8oPkYVlKdc6EBGg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.7993069,-1.3239198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nairobi National Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yhRTfMszcK1OBUwK5yyxgvNnfKrM0OzbUrjmkdjufo4X3rdT651nhKc27OuLsKULdZNvEJENyFlLIN5XxxUCVwVj8H6cDg7yHPh8yS17FfuwL4k2XYdPmAKyAn7lZMhYZFbeug" height="200" width="auto" /><br><br>Национальный парк Найроби]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/yhRTfMszcK1OBUwK5yyxgvNnfKrM0OzbUrjmkdjufo4X3rdT651nhKc27OuLsKULdZNvEJENyFlLIN5XxxUCVwVj8H6cDg7yHPh8yS17FfuwL4k2XYdPmAKyAn7lZMhYZFbeug</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8465564000001,-1.3569641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>African Heritage House</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/nLK_AhmHgXUU-GWE0chlUQ7Z9yUS3EExrvC45FLYNrogyuzpe3u_CrZTVKkJMYtDGUqLEGz9KciOoBbaroca4rT8nU5mmWsIpNIYP5g2Mcfl57XyPmWHHCvJN2IyzXBTx2ZArw" height="200" width="auto" /><br><br>Дом африканского наследия]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/nLK_AhmHgXUU-GWE0chlUQ7Z9yUS3EExrvC45FLYNrogyuzpe3u_CrZTVKkJMYtDGUqLEGz9KciOoBbaroca4rT8nU5mmWsIpNIYP5g2Mcfl57XyPmWHHCvJN2IyzXBTx2ZArw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.9392163,-1.4008007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taita Hills Wildlife Sanctuary</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/iytk_noleaLx9VProzt-IM1yNquxtOJUCXlKIlC-1xHwk9C6UKOXrZ9p6VBNdfzrhIe-JCX1OVhqzLDRIyWOlEhGOIXACbnsda_504QMHwtfQKnNYfLB5yZ2KRz04950Sx-yCeY" height="200" width="auto" /><br><br>Заповедник дикой природы Таиты Хиллз]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/iytk_noleaLx9VProzt-IM1yNquxtOJUCXlKIlC-1xHwk9C6UKOXrZ9p6VBNdfzrhIe-JCX1OVhqzLDRIyWOlEhGOIXACbnsda_504QMHwtfQKnNYfLB5yZ2KRz04950Sx-yCeY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2533052,-3.5370085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mombasa</name>
+        <description>Момбаса</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            39.6682065,-4.0434771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diani Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/zJ8NW0wsqWZGKbqc0hVBeYDJfrXOXjYUs40DneOyIBMnfOXgba2QtdSheNiUNE9c-I-q_jn7B_tvZlTqN03Qd2jmoFYwHGC0ZdBXaXcaFfwcq3PGbTDRs4aMpu1jcKX126c" height="200" width="auto" /><br><br>Диани Бич]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/zJ8NW0wsqWZGKbqc0hVBeYDJfrXOXjYUs40DneOyIBMnfOXgba2QtdSheNiUNE9c-I-q_jn7B_tvZlTqN03Qd2jmoFYwHGC0ZdBXaXcaFfwcq3PGbTDRs4aMpu1jcKX126c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.5846861,-4.2877395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wasini Island</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/NiyCMJ8SQePuKMjW8qFFLRTwFuXjZlSg73PY21hNqfujzT4OsvDgyZ7KA_wxC_q4OPMpVkgeskrSpwREyRFCUdrULwCSu2JpvFJC7yKNB8ZA0Ck6-TixgqFig0WTXzSXv1RyKg" height="200" width="auto" /><br><br>Остров Уэйсини ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/NiyCMJ8SQePuKMjW8qFFLRTwFuXjZlSg73PY21hNqfujzT4OsvDgyZ7KA_wxC_q4OPMpVkgeskrSpwREyRFCUdrULwCSu2JpvFJC7yKNB8ZA0Ck6-TixgqFig0WTXzSXv1RyKg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3645971,-4.6578924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gede Ruins</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/YHV1JMoci4iN9EZXqALjE8-E3KwzFpz9__c7-tW-SVt6oIJbSImzS0BQFOwW2QkxpIxt6zfDeeMDn2wYESOXA7-zQrW7QC7VrZkAtxZ0sjVdE24_roNUUv_J-CP6JwT8Ncl5" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/YHV1JMoci4iN9EZXqALjE8-E3KwzFpz9__c7-tW-SVt6oIJbSImzS0BQFOwW2QkxpIxt6zfDeeMDn2wYESOXA7-zQrW7QC7VrZkAtxZ0sjVdE24_roNUUv_J-CP6JwT8Ncl5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.0164295,-3.3097009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kenya Revenue Authority - Lungalunga Border Station</name>
+        <description>Граница Lungalunga (Kenya) - Horohoro (Tanzania) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            39.1274572,-4.5595593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tanzania</name>
+      <Placemark>
+        <name>KRA Horo Horo</name>
+        <description>Граница Horohoro (Tanzania) - Lungalunga (Kenya)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            39.1054504,-4.6000834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dar es Salam</name>
+        <description>Дар-эс-Салам</description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            39.2083284,-6.792354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanzania Border Control</name>
+        <description>Граница Tunduma (Tanzania) - Nakonde (Zambia)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            32.7636676,-9.3148823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Zambia</name>
+      <Placemark>
+        <name>Nakonde Border Control</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/6kPC5TynGZAKRufBjJfk3C7SS_HCFTNSsrB0dTAA-V5fkjczGIc3lMYARAKON3BJbJR19vjhPnX284IQPShE5Sn2x0WDngGBCYfGUNXPWbYfnjZgAt19kimMCsROJAmoy-Sg" height="200" width="auto" /><br><br>Граница Nakonde (Zambia) - Tunduma (Tanzania)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/6kPC5TynGZAKRufBjJfk3C7SS_HCFTNSsrB0dTAA-V5fkjczGIc3lMYARAKON3BJbJR19vjhPnX284IQPShE5Sn2x0WDngGBCYfGUNXPWbYfnjZgAt19kimMCsROJAmoy-Sg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.7633215999999,-9.3164506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lusaka</name>
+        <description>Лусака</description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            28.3228165,-15.3875259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Livingstone</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.8553975,-17.852341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Falls</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/f8k1Yu6UwrhKyegUwe-1sRa_QZkTjwWryVv2x_0gnM8c6NMWl5Gna8Assd-HVx3odBeNJGM5mt0_1XSNRR2OjpL-u9orgwScLtK7W26ufLQMIkw6TeKhj_pIrKcZZetfp5H6Zw" height="200" width="auto" /><br><br>Попасть на мост можно со стороны Замбии, необходимо предъявить паспорт и заплатить]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/f8k1Yu6UwrhKyegUwe-1sRa_QZkTjwWryVv2x_0gnM8c6NMWl5Gna8Assd-HVx3odBeNJGM5mt0_1XSNRR2OjpL-u9orgwScLtK7W26ufLQMIkw6TeKhj_pIrKcZZetfp5H6Zw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.857211,-17.9284948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Devils Pool Victoria Falls</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/DJ-h6CMDKCg3k6bjWw_TjHbeIBrycPZ7lmT-SL12vStBHSodwsrS3ixhx2pDTxte-pbapQrFULeI8mmnZ6Rn200Ywm_A34vavEWhN6Dgl3sIrex9O7hDxioneUxroES8zdcTYQ" height="200" width="auto" /><br><br>Купель Дьявола]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/DJ-h6CMDKCg3k6bjWw_TjHbeIBrycPZ7lmT-SL12vStBHSodwsrS3ixhx2pDTxte-pbapQrFULeI8mmnZ6Rn200Ywm_A34vavEWhN6Dgl3sIrex9O7hDxioneUxroES8zdcTYQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.852294,-17.923577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kazungula Ferry Border Control</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/uXappRieAWSY9jHmj8ULLjstCoQB6arXHYOEQUE1HOYLXfFXpAVTb9gFeFB7njVecq2bfXRVKyLYCHSE9MV3xTrrM_XG4k5da4qcQGJhnbGlaaKtMEoupqs1NDZxp7N94cjnQ4c" height="200" width="auto" /><br><br>Граница Kazungula (Zambia) - Kasane (Botswana)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/uXappRieAWSY9jHmj8ULLjstCoQB6arXHYOEQUE1HOYLXfFXpAVTb9gFeFB7njVecq2bfXRVKyLYCHSE9MV3xTrrM_XG4k5da4qcQGJhnbGlaaKtMEoupqs1NDZxp7N94cjnQ4c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.2658188,-17.7902596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Botswana</name>
+      <Placemark>
+        <name>Kazungula Border</name>
+        <description>Граница Kasane (Botswana) - Kazungula (Zambia)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            25.2625492,-17.7936206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kgale Hill</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/M_Hvcp-0cpmCwmHDSIA_LeVJPtw8nHYCQWuY04mtWH6JsHAhCktq9DwiOrS-pe5KSjIWY4KmGRamo4SLqzl4hs8wF0rOAIedyper5WO5fk2aiSGX0eu2vK_vg0V1dAhNTuSvAys" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/M_Hvcp-0cpmCwmHDSIA_LeVJPtw8nHYCQWuY04mtWH6JsHAhCktq9DwiOrS-pe5KSjIWY4KmGRamo4SLqzl4hs8wF0rOAIedyper5WO5fk2aiSGX0eu2vK_vg0V1dAhNTuSvAys</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.8675241,-24.6958042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaborone</name>
+        <description>Габороне</description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            25.9231471000001,-24.6282079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tlokweng Border Control</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/ZMpJ_hlRhb9xH207wn2oBJjWYd2mqMF3b8YVcMIfcRuhVGlQ3strGenogtlcA_tYGmqy5Xfg1dDV_EFVUhKfSYFdR7XCoeZ9m5hqARv18C3380ZN90LN0rmQoeEFwz_U1fQj_A" height="200" width="auto" /><br><br>Граница Tlokweng (Botswana) - Kopfontein (South Africa)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/ZMpJ_hlRhb9xH207wn2oBJjWYd2mqMF3b8YVcMIfcRuhVGlQ3strGenogtlcA_tYGmqy5Xfg1dDV_EFVUhKfSYFdR7XCoeZ9m5hqARv18C3380ZN90LN0rmQoeEFwz_U1fQj_A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.092343,-24.7052189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>South Africa</name>
+      <Placemark>
+        <name>Kopfontein Border control </name>
+        <description>Граница Kopfontein (South Africa) - Tlokweng (Botswana)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            26.09502,-24.70737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pretoria</name>
+        <description>Претория</description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            28.2292712,-25.7478676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Union Buildings</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Yp8c95__8xCv1pKRAm5alDhKGTwv9DdTUJEisbUfDVy0xZTl8fPjmjYf0uXVpHL4-wWUOqTcKa9Qp_fIvvzBETcAgAKl8GC5PdDVhcr2Q4mXVPPK6PQ98bYVFnqiROLx_N6eLA" height="200" width="auto" /><br><br>Юнион-Билдингз]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/Yp8c95__8xCv1pKRAm5alDhKGTwv9DdTUJEisbUfDVy0xZTl8fPjmjYf0uXVpHL4-wWUOqTcKa9Qp_fIvvzBETcAgAKl8GC5PdDVhcr2Q4mXVPPK6PQ98bYVFnqiROLx_N6eLA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.2119908,-25.7402069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voortrekker Monument</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/Cekls5nbJ2RBrVAs24Z5A7aNYCoJbab7ZvlzMIu-1pR0__obana58zsScrD86hcuzTt9vds6CIKJKCiqISo_hNcxr3vcK7zpBw-P46krqCUoKpS5Mp6Dcm0wlyrtEAvVRyXE" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/Cekls5nbJ2RBrVAs24Z5A7aNYCoJbab7ZvlzMIu-1pR0__obana58zsScrD86hcuzTt9vds6CIKJKCiqISo_hNcxr3vcK7zpBw-P46krqCUoKpS5Mp6Dcm0wlyrtEAvVRyXE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.1758061,-25.7763785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cradle of Humankind</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Q5JmucgNDEwkrGQ0hWoymbTemSpB1efwan9FE1T4iHmGA2mfZf99z5CrwxqiaNd1uUlqm6mX1-rUvH5m2vyWLaoFIdZqnMmYlBvj8gt_CQqaaRcGp2SgLxbae-oOXWzBEShmXQ" height="200" width="auto" /><br><br>Колыбель человечества ]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Q5JmucgNDEwkrGQ0hWoymbTemSpB1efwan9FE1T4iHmGA2mfZf99z5CrwxqiaNd1uUlqm6mX1-rUvH5m2vyWLaoFIdZqnMmYlBvj8gt_CQqaaRcGp2SgLxbae-oOXWzBEShmXQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.7673811,-25.9253869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montecasino</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/saqJLF4O716swua4cNiVWcU8hhh-coL9rYH1kEb1YvHIS8XzoXm-mhsT3Q_SMb51VcnGbNE4boIk6bGRTHPuheQH1JrlmASj1sDM-OoqpOSO-Rj4sermTa255YxT0M3Ix4OJ7hs" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/saqJLF4O716swua4cNiVWcU8hhh-coL9rYH1kEb1YvHIS8XzoXm-mhsT3Q_SMb51VcnGbNE4boIk6bGRTHPuheQH1JrlmASj1sDM-OoqpOSO-Rj4sermTa255YxT0M3Ix4OJ7hs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.0127162,-26.025997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cango Caves</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/6FRQRlQzB9_JaleEJHldq4xZZGDGXpgYQh1LOMynRBDn766Fy0HnTitQHFTGkbO0A2UIbbhzZVg32ueFe1ynLlOYxf5xaVLE-PkhSellqJe2jcf-wcB2VmTTnqzjvtkSrrnL" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/6FRQRlQzB9_JaleEJHldq4xZZGDGXpgYQh1LOMynRBDn766Fy0HnTitQHFTGkbO0A2UIbbhzZVg32ueFe1ynLlOYxf5xaVLE-PkhSellqJe2jcf-wcB2VmTTnqzjvtkSrrnL</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            22.2147,-33.39247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Town</name>
+        <description>Кейптаун</description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            18.4241074,-33.924741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirstenbosch Gardens Concert Stage</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/R6xCBJmY_i7Lo6hyVcAyO__T3Wc9w_RVrZ1H92UxaTxEcgqusGbFSO1UtpRMoQu9JUvL5MpLTl0XnYSdGsOHvvBUrdcamC9_q-BcI5dSDfY5EmrQXq09MfnbnZoCxVK6nWHAGA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/R6xCBJmY_i7Lo6hyVcAyO__T3Wc9w_RVrZ1H92UxaTxEcgqusGbFSO1UtpRMoQu9JUvL5MpLTl0XnYSdGsOHvvBUrdcamC9_q-BcI5dSDfY5EmrQXq09MfnbnZoCxVK6nWHAGA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4320475,-33.9899801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lion's Head]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/TkWAQ89_RapZPog1FuB6u-ejoUXo1ka9Ks1DtvgpanGHkRRwogDqe5kRBxatwjziCPUNnX_0RDMP2TNVBmJh29V-wp4tcO6WmOYz1hSCAgKV36IOWhxt8nOJL2dvTxhE4LNCnA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/TkWAQ89_RapZPog1FuB6u-ejoUXo1ka9Ks1DtvgpanGHkRRwogDqe5kRBxatwjziCPUNnX_0RDMP2TNVBmJh29V-wp4tcO6WmOYz1hSCAgKV36IOWhxt8nOJL2dvTxhE4LNCnA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.3889709,-33.9350375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bo-Kaap Museum</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/JuFM5wGm_ePjA2PyO3_Y5llcn1GgA7YF_ZhNyhDjOyQawJ6LAuKRtpXER3sWWfq4Z3HQe7RLCtCrZUWpCerJgMP_nceDLMmEUjIykPSPHRxP5g6Tdy_ebD7Sy_q_DOETAoejYQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/JuFM5wGm_ePjA2PyO3_Y5llcn1GgA7YF_ZhNyhDjOyQawJ6LAuKRtpXER3sWWfq4Z3HQe7RLCtCrZUWpCerJgMP_nceDLMmEUjIykPSPHRxP5g6Tdy_ebD7Sy_q_DOETAoejYQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4149708,-33.9215835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Six Museum</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/YpGJS_9qItBCAGWb3ARUlAzU_NBAev-6X8adMzoZDcmTzHuoZj_YedbrXAodttFmyZwvymWKOhyHPaItWbyVBzSzKOacCxkHpNEkLrZLXyEP5IS3ENYyTU3L9BvZ4BFeLaGw6Q" height="200" width="auto" /><br><br>Музей шестого квартала]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/YpGJS_9qItBCAGWb3ARUlAzU_NBAev-6X8adMzoZDcmTzHuoZj_YedbrXAodttFmyZwvymWKOhyHPaItWbyVBzSzKOacCxkHpNEkLrZLXyEP5IS3ENYyTU3L9BvZ4BFeLaGw6Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.423677,-33.9277222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Victoria & Alfred Waterfront ]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/H9WIhteDGWrO7ATpj9S54cnDJQIa3yfE_BHEAC4_0BCeT6EW5hBGlraE2Ogj15BOCdQnjf9uSURzG5qWRvr5BpOAtg2OExFVdlfcCANGI-7kwE7n4CUiWlRts-vxqkcEKxopcg" height="200" width="auto" /><br><br>Набережная Виктории и Альфреда]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/H9WIhteDGWrO7ATpj9S54cnDJQIa3yfE_BHEAC4_0BCeT6EW5hBGlraE2Ogj15BOCdQnjf9uSURzG5qWRvr5BpOAtg2OExFVdlfcCANGI-7kwE7n4CUiWlRts-vxqkcEKxopcg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4225369000001,-33.9035264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulders beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/1tSTSlXVxXjc4nu1wEe6tO-SO2yc8RDC4VkrBgQsQTsQNoAj4eJBIrBeKBJYmvJ9l6sKNJmQep9LO9HswSURGlmUjk7W_FO_4y6Ih0MWHG34JAVUVyUglvdknZ089kb27YHtTgE" height="200" width="auto" /><br><br>Пляж пингвинов ]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/1tSTSlXVxXjc4nu1wEe6tO-SO2yc8RDC4VkrBgQsQTsQNoAj4eJBIrBeKBJYmvJ9l6sKNJmQep9LO9HswSURGlmUjk7W_FO_4y6Ih0MWHG34JAVUVyUglvdknZ089kb27YHtTgE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4512851,-34.1972201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cape of Good Hope's Old Lighthouse]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/2NRoQ-LIi8Htaz61mcllY3cULOUhEDvTC_H1-guTCHfSXMuTnV44ci8J_6-cOH7eFeyRA1pShW7JjCM5_hhJltGx1G0gl-KvBE1WKgDJBGgTKf45WQHl_DnU-UvKmkNxKH8J5Q" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/2NRoQ-LIi8Htaz61mcllY3cULOUhEDvTC_H1-guTCHfSXMuTnV44ci8J_6-cOH7eFeyRA1pShW7JjCM5_hhJltGx1G0gl-KvBE1WKgDJBGgTKf45WQHl_DnU-UvKmkNxKH8J5Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4967859,-34.3568108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape of Good Hope</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/WNKOQYlH8xz4tMxKxkRSzcBQJ4EmPt6GzJOztmOQbFLPjDupJ3AOVlg3kunukZI_06ROETy1gf0z38WiWvtKaf0NHZ9-g_ZTwiqR56r97YnLFa4mTI1cyzCKLzoDh-fxScm_" height="200" width="auto" /><br><br>Мыс Доброй Надежды ]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/WNKOQYlH8xz4tMxKxkRSzcBQJ4EmPt6GzJOztmOQbFLPjDupJ3AOVlg3kunukZI_06ROETy1gf0z38WiWvtKaf0NHZ9-g_ZTwiqR56r97YnLFa4mTI1cyzCKLzoDh-fxScm_</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4753499,-34.3586894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
