@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>South America, Around the World</name>
+    <description/>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-nodesc-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-nodesc-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Brasil</name>
+      <Placemark>
+        <name>Pizzaria Piratas do Picui</name>
+        <description>Ресторан с 90 видами пицц</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -35.7199296,-9.6106539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio de Janeiro</name>
+        <description>Рио-де-Жанейро</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1728965,-22.9068467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cristo Redentor</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/CCyTnkKjo92E_QhK8ZRLFYx8NsQQ0Dry37EJ4cl30edchLe9mx2kWukh83YXv_Dl8TvewWRlAvNA5ChVck3uDNRmqaHD4uZbyYRfrH5tYFQjye--n8KLpxvkiTnZrC5laxhv" height="200" width="auto" /><br><br>Статуя Христа-Искупителя ]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/CCyTnkKjo92E_QhK8ZRLFYx8NsQQ0Dry37EJ4cl30edchLe9mx2kWukh83YXv_Dl8TvewWRlAvNA5ChVck3uDNRmqaHD4uZbyYRfrH5tYFQjye--n8KLpxvkiTnZrC5laxhv</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -43.2104872,-22.951916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monumento Natural dos Morros do Pão de Açúcar e da Urca</name>
+        <description>Смотровая площадка, парк</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1596348,-22.9506041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kopakabana</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/pSNSimGS2nZJKlnUtOvlzqJtqHSYZl11tfHSxMJ5PMQz6ZqwclcIubcFtwEiVvFHamRi51dwcIbdEKbyOmbifagwM5Qt8JeRZCaX1vDdQvIWWdnoc83yBvxmo6ZYxm3ua5ii" height="200" width="auto" /><br><br>Копакабана ]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/pSNSimGS2nZJKlnUtOvlzqJtqHSYZl11tfHSxMJ5PMQz6ZqwclcIubcFtwEiVvFHamRi51dwcIbdEKbyOmbifagwM5Qt8JeRZCaX1vDdQvIWWdnoc83yBvxmo6ZYxm3ua5ii</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -43.1868592,-22.9697777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rodrigo de Freitas Lagoon</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/xE4uMkE1Hry7LnbJTBiT5aOGSslE7ecujJ2rjUTWfDDSISzzEd9vkwU-Si-CR83Z8gJssCgXOjF4Eh218oL14Rx6ORbG87LVQurb0T7Md6mA4sq2OxRBRFjEe9jxVkgEn3_kDj8" height="200" width="auto" /><br><br>Родригу-ди-Фрейташ ]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/xE4uMkE1Hry7LnbJTBiT5aOGSslE7ecujJ2rjUTWfDDSISzzEd9vkwU-Si-CR83Z8gJssCgXOjF4Eh218oL14Rx6ORbG87LVQurb0T7Md6mA4sq2OxRBRFjEe9jxVkgEn3_kDj8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -43.2110285,-22.9738464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Paulo</name>
+        <description>Сан-Паулу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6333094,-23.5505199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Uruguay</name>
+      <Placemark>
+        <name>The Fingers of Punta del Este</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/yTLro7kR2ou1LjXdlXPEY2WSphvACZfvhLXa6PqsrU3pK3BTPQ76lCzoIECi474UQEVCkFkJHpLwRbfKaunMITVKctWvgiroc4zOYrQPme2DxW2q29D-9TrfiZLp3J1wSMVQRA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/yTLro7kR2ou1LjXdlXPEY2WSphvACZfvhLXa6PqsrU3pK3BTPQ76lCzoIECi474UQEVCkFkJHpLwRbfKaunMITVKctWvgiroc4zOYrQPme2DxW2q29D-9TrfiZLp3J1wSMVQRA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.9372712,-34.9578438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Independencia</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/G0xVaRryiClHjGCDx1c2LpP-0FpKWDt25NaEdR3zs7a5296phK1Lm4fVxE1KrU0meV0jX-1vYse_yrR2__NBZmtgs8_ANVJihImLbq62lKj7biXjXb_xeMJjeNUJ2YgQiwXtEg" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/G0xVaRryiClHjGCDx1c2LpP-0FpKWDt25NaEdR3zs7a5296phK1Lm4fVxE1KrU0meV0jX-1vYse_yrR2__NBZmtgs8_ANVJihImLbq62lKj7biXjXb_xeMJjeNUJ2YgQiwXtEg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.1992097,-34.9065926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gateway of the Citadel</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/UaEJzgXf74veSKjm3rOQVFoLDUzXVNSPavLhHn4ALhSRfKdQUUKijI4wof0VGD8tyNv6CtbkaKRLIky5kZ9pLW0IcUPB-RXQqgCUb0vD7MEBhLJwR7TD9sjBdkR4TqHvyWNX" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/UaEJzgXf74veSKjm3rOQVFoLDUzXVNSPavLhHn4ALhSRfKdQUUKijI4wof0VGD8tyNv6CtbkaKRLIky5kZ9pLW0IcUPB-RXQqgCUb0vD7MEBhLJwR7TD9sjBdkR4TqHvyWNX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.2008178,-34.9065218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montevideo</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -56.1645314,-34.9011127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coloma del Sacramento</name>
+        <description>Колония Дель Сакраменто</description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -57.8339099,-34.4607189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto de Colonia</name>
+        <description>Граница Colonia del Sacramento (Uruguay) - Buenos Aires (Argentina)</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -57.843503,-34.4745897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Argentina</name>
+      <Placemark>
+        <name>Marina del Norte</name>
+        <description>Граница Buenos Aires (Argentina) - Colonia del Sacramento (Uruguay) </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -58.5394585,-34.4358145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buenos Aires</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -58.3815591,-34.6036844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Boca</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/VZ2qikJlspNOiQr_V4jpGlZjI07j743yaK6xcmRJssI1nwQ48GYvGvAFPjiDmJouLpd1DnG-FbkZSgKLDe-rKg_zm_0MH0YU1Wsu86UoszZejIkZ8m4UN4-qkpLrH7wtIQMW" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/VZ2qikJlspNOiQr_V4jpGlZjI07j743yaK6xcmRJssI1nwQ48GYvGvAFPjiDmJouLpd1DnG-FbkZSgKLDe-rKg_zm_0MH0YU1Wsu86UoszZejIkZ8m4UN4-qkpLrH7wtIQMW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3631337,-34.6344961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bosques De Palermo</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/7qnew2J3VPYR9Qk6Z8UKotETgrD2Qct_CC7OQ3qmR7TR-Q-brN1gXAbCTEK-eYwv765k2ANyx1xI78xdjkCZX629EN4Fz46nTWcS0NuJZozCAKuCqgyAqiNMPx2ja7lTqN7A" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/7qnew2J3VPYR9Qk6Z8UKotETgrD2Qct_CC7OQ3qmR7TR-Q-brN1gXAbCTEK-eYwv765k2ANyx1xI78xdjkCZX629EN4Fz46nTWcS0NuJZozCAKuCqgyAqiNMPx2ja7lTqN7A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4192862,-34.5696907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Ateneo Grand Splendid</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/y7nC55UR92Edurrm7TwWqnvTegeIWcyRLjU-JfFTCk5PPGwNfXq7TKXwBTYGCapbeQqh5PNSwm1m8E2srqQvAU4PR-GW_EBWg_vcdOT3_osExuWUenjR0pMLwdjyuFpfARpJ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/y7nC55UR92Edurrm7TwWqnvTegeIWcyRLjU-JfFTCk5PPGwNfXq7TKXwBTYGCapbeQqh5PNSwm1m8E2srqQvAU4PR-GW_EBWg_vcdOT3_osExuWUenjR0pMLwdjyuFpfARpJ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3942285,-34.5959833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Chile</name>
+      <Placemark>
+        <name>Santiago De Chile</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6692655,-33.4488897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maipo Canyon</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/a-zL6Gs5ccaaxvYYNf055KUF8TU_9DYudTMraxY_Sbac48kt-8puw0xlfX3DAjC6wx9NkIxnIBQN-p_GRmup7xN7Mkk_jyNIR423SX-ZtgeF08NluqfWMLCdCcMILzbf9tn_Hg0" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/a-zL6Gs5ccaaxvYYNf055KUF8TU_9DYudTMraxY_Sbac48kt-8puw0xlfX3DAjC6wx9NkIxnIBQN-p_GRmup7xN7Mkk_jyNIR423SX-ZtgeF08NluqfWMLCdCcMILzbf9tn_Hg0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -70.335304,-33.7023109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Armas</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/JZUf6Xy5ZT7UpVT5qwUlEZP6W5HejRrOBbdTd3xjuRmtqBqDbDXWxr8Js7gQ9AJxE9YEPbVFLbq848BaTPpdoDmPYpdqatgXyWZEnm3odKLi9_6V0fjFS9mKiT25rJtDWSie_w" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/JZUf6Xy5ZT7UpVT5qwUlEZP6W5HejRrOBbdTd3xjuRmtqBqDbDXWxr8Js7gQ9AJxE9YEPbVFLbq848BaTPpdoDmPYpdqatgXyWZEnm3odKLi9_6V0fjFS9mKiT25rJtDWSie_w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -70.6504796,-33.4378439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia San Francisco</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/hlmPoGchbFc6S8GfWIZCUKsy_IhxCzM8h1du6h29OijbI6QeM8mtIQBZHYC7yiVlfzxL5QAo0lrAL6Ui3mUfLPvdpEPPbC0ej1xnaEh87qbnB2wzfecPR-L5GJ4d9IU1_TJMkQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/hlmPoGchbFc6S8GfWIZCUKsy_IhxCzM8h1du6h29OijbI6QeM8mtIQBZHYC7yiVlfzxL5QAo0lrAL6Ui3mUfLPvdpEPPbC0ej1xnaEh87qbnB2wzfecPR-L5GJ4d9IU1_TJMkQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -70.6476107,-33.4434559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jardin Japones</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6430196,-33.4394022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Renaca</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/uyf3FCeg11HxpsaiTJNYiWcheBx78Y6DvY98Y9qE4vJ2rM4BPMWSG6MtfkDYK3E57xJnc6JqkygESR7_qo562OqaWCaU0_KKz3CaoXGgVBi5dXNFjC3JDIzenCboJDERnwg_jsA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/uyf3FCeg11HxpsaiTJNYiWcheBx78Y6DvY98Y9qE4vJ2rM4BPMWSG6MtfkDYK3E57xJnc6JqkygESR7_qo562OqaWCaU0_KKz3CaoXGgVBi5dXNFjC3JDIzenCboJDERnwg_jsA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.5456448,-32.9696809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
